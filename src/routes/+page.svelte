@@ -3,7 +3,7 @@
 	import { getNflState, leagueName, getAwards, getLeagueTeamManagers, homepageText, managers, gotoManager, enableBlog, waitForAll } from '$lib/utils/helper';
 	import { Transactions, PowerRankings, HomePost} from '$lib/components';
 	import { getAvatarFromTeamManagers, getTeamFromTeamManagers } from '$lib/utils/helperFunctions/universalFunctions';
-
+   	import CustomStandings from '$lib/CustomStandings.svelte';
     const nflState = getNflState();
     const podiumsData = getAwards();
     const leagueTeamManagersData = getLeagueTeamManagers();
@@ -147,6 +147,7 @@
                 <HomePost />
             {/if}
         </div>
+   <CustomStandings compact />
         <PowerRankings />
     </div>
     
