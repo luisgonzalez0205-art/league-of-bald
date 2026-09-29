@@ -20,7 +20,8 @@ jobs:
         working-directory: sleeper-standings
     steps:
       - uses: actions/checkout@v4
-
+        with:
+          ref: ${{ github.ref_name }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -40,5 +41,5 @@ jobs:
             exit 0
           fi
           git commit -m "Update Sleeper standings"
-          git pull --rebase
+                    git pull --rebase -X theirs
           git push
