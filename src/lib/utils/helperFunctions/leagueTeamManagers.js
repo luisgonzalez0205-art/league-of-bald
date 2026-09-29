@@ -5,6 +5,13 @@ import { waitForAll } from './multiPromise';
 import { getManagers, getTeamData } from './universalFunctions';
 import { getLeagueData } from './leagueData';
 
+// Old Sleeper accounts that belong to the same person as a newer account.
+// Format: 'old user_id': 'current user_id'
+const accountAliases = {
+    '76447455113527296': '1263720098858799104', // nickgenova -> rickrenova
+};
+const mainID = (id) => accountAliases[id] ?? id;
+
 export const getLeagueTeamManagers = async () => {
     if(get(teamManagersStore) && get(teamManagersStore).currentSeason) {
 		return get(teamManagersStore);
@@ -26,6 +33,17 @@ export const getLeagueTeamManagers = async () => {
             usersRaw.json(), 
             rostersRaw.json(), 
         ).catch((err) => { console.error(err); });
+
+        // Merge old accounts into the person's current account
+        for(const user of users) {
+            user.user_id = mainID(user.user_id);
+        }
+        for(const roster of rosters) {
+            roster.owner_id = mainID(roster.owner_id);
+            if(roster.co_owners) {
+                roster.co_owners = roster.co_owners.map(mainID);
+            }
+        }
 
         const year = parseInt(leagueData.season);
         currentLeagueID = leagueData.previous_league_id;
@@ -62,9 +80,3 @@ const processUsers = (rawUsers) => {
         user.user_name = user.user_name ?? user.display_name;
 		finalUsers[user.user_id] = user;
         const manager = managers.find(m => m.managerID === user.user_id);
-        if(manager) {
-            finalUsers[user.user_id].display_name = manager.name;
-        }
-	}
-	return finalUsers;
-}
