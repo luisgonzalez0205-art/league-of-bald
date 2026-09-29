@@ -1,0 +1,1138 @@
+{
+ "league": "Legend of Bald",
+ "season": "2026",
+ "weeks": [
+  1,
+  2,
+  3
+ ],
+ "updated": "2026-09-29 17:45 UTC",
+ "award_types": [
+  {
+   "key": "money_shot",
+   "emoji": "\ud83d\udcb0",
+   "title": "The Money Shot",
+   "description": "Highest-scoring starter of the week"
+  },
+  {
+   "key": "taco",
+   "emoji": "\ud83c\udf2e",
+   "title": "The Taco",
+   "description": "Lowest team score of the week"
+  },
+  {
+   "key": "best_manager",
+   "emoji": "\ud83d\udd25",
+   "title": "Best Manager",
+   "description": "Highest share of their best possible lineup"
+  },
+  {
+   "key": "worst_manager",
+   "emoji": "\ud83e\udd14",
+   "title": "Worst Manager",
+   "description": "Lowest share of their best possible lineup"
+  },
+  {
+   "key": "blowout",
+   "emoji": "\ud83d\ude02",
+   "title": "Biggest Blowout",
+   "description": "Largest margin of victory"
+  },
+  {
+   "key": "narrow",
+   "emoji": "\ud83d\ude31",
+   "title": "Narrow Victory",
+   "description": "Smallest margin of victory"
+  },
+  {
+   "key": "overachiever",
+   "emoji": "\ud83e\udd13",
+   "title": "Overachiever",
+   "description": "Beat their projection by the most"
+  },
+  {
+   "key": "below",
+   "emoji": "\ud83d\udc80",
+   "title": "Below Expectation",
+   "description": "Fell furthest short of their projection"
+  },
+  {
+   "key": "best_qb",
+   "emoji": "\u2b50",
+   "title": "Best QB",
+   "description": "Top-scoring starting QB"
+  },
+  {
+   "key": "best_rb",
+   "emoji": "\u2b50",
+   "title": "Best RB",
+   "description": "Top-scoring starting RB"
+  },
+  {
+   "key": "best_wr",
+   "emoji": "\u2b50",
+   "title": "Best WR",
+   "description": "Top-scoring starting WR"
+  },
+  {
+   "key": "best_te",
+   "emoji": "\u2b50",
+   "title": "Best TE",
+   "description": "Top-scoring starting TE"
+  },
+  {
+   "key": "best_k",
+   "emoji": "\u2b50",
+   "title": "Best K",
+   "description": "Top-scoring starting K"
+  },
+  {
+   "key": "best_def",
+   "emoji": "\u2b50",
+   "title": "Best DEF",
+   "description": "Top-scoring starting DEF"
+  },
+  {
+   "key": "bench_qb",
+   "emoji": "\ud83d\udc40",
+   "title": "Benchwarmer QB",
+   "description": "Top-scoring benched QB"
+  },
+  {
+   "key": "bench_rb",
+   "emoji": "\ud83d\udc40",
+   "title": "Benchwarmer RB",
+   "description": "Top-scoring benched RB"
+  },
+  {
+   "key": "bench_wr",
+   "emoji": "\ud83d\udc40",
+   "title": "Benchwarmer WR",
+   "description": "Top-scoring benched WR"
+  },
+  {
+   "key": "bench_te",
+   "emoji": "\ud83d\udc40",
+   "title": "Benchwarmer TE",
+   "description": "Top-scoring benched TE"
+  },
+  {
+   "key": "bench_k",
+   "emoji": "\ud83d\udc40",
+   "title": "Benchwarmer K",
+   "description": "Top-scoring benched K"
+  },
+  {
+   "key": "bench_def",
+   "emoji": "\ud83d\udc40",
+   "title": "Benchwarmer DEF",
+   "description": "Top-scoring benched DEF"
+  },
+  {
+   "key": "bench_points",
+   "emoji": "\ud83c\udf46",
+   "title": "The Ron Jeremy Performance Award",
+   "description": "Most points left on the bench"
+  }
+ ],
+ "weekly": [
+  {
+   "week": 1,
+   "awards": [
+    {
+     "key": "money_shot",
+     "emoji": "\ud83d\udcb0",
+     "title": "The Money Shot",
+     "description": "Highest-scoring starter of the week",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "42.66 pts",
+     "detail": "",
+     "player": {
+      "id": "4984",
+      "name": "Josh Allen",
+      "position": "QB",
+      "nfl_team": "BUF",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg"
+     }
+    },
+    {
+     "key": "taco",
+     "emoji": "\ud83c\udf2e",
+     "title": "The Taco",
+     "description": "Lowest team score of the week",
+     "roster_id": 10,
+     "team": "TheBurdenOfProof",
+     "manager": "JimLacko",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
+     "value": "78.10 pts",
+     "detail": "",
+     "player": null
+    },
+    {
+     "key": "best_manager",
+     "emoji": "\ud83d\udd25",
+     "title": "Best Manager",
+     "description": "Highest share of their best possible lineup",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "99.6%",
+     "detail": "204.20 of a possible 205.10",
+     "player": null
+    },
+    {
+     "key": "worst_manager",
+     "emoji": "\ud83e\udd14",
+     "title": "Worst Manager",
+     "description": "Lowest share of their best possible lineup",
+     "roster_id": 4,
+     "team": "Kershaw",
+     "manager": "MFitz10",
+     "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+     "value": "71.7%",
+     "detail": "127.20 of a possible 177.48",
+     "player": null
+    },
+    {
+     "key": "blowout",
+     "emoji": "\ud83d\ude02",
+     "title": "Biggest Blowout",
+     "description": "Largest margin of victory",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "+77.00",
+     "detail": "Beat Kershaw 204.20 to 127.20",
+     "player": null
+    },
+    {
+     "key": "narrow",
+     "emoji": "\ud83d\ude31",
+     "title": "Narrow Victory",
+     "description": "Smallest margin of victory",
+     "roster_id": 1,
+     "team": "The 2nd WCE",
+     "manager": "luis",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
+     "value": "+1.42",
+     "detail": "Beat Thunder Lips  108.96 to 107.54",
+     "player": null
+    },
+    {
+     "key": "overachiever",
+     "emoji": "\ud83e\udd13",
+     "title": "Overachiever",
+     "description": "Beat their projection by the most",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "+77.79",
+     "detail": "Scored 204.20, projected 126.41",
+     "player": null
+    },
+    {
+     "key": "below",
+     "emoji": "\ud83d\udc80",
+     "title": "Below Expectation",
+     "description": "Fell furthest short of their projection",
+     "roster_id": 10,
+     "team": "TheBurdenOfProof",
+     "manager": "JimLacko",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
+     "value": "-33.50",
+     "detail": "Scored 78.10, projected 111.60",
+     "player": null
+    },
+    {
+     "key": "best_qb",
+     "emoji": "\u2b50",
+     "title": "Best QB",
+     "description": "Top-scoring starting QB",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "42.66 pts",
+     "detail": "",
+     "player": {
+      "id": "4984",
+      "name": "Josh Allen",
+      "position": "QB",
+      "nfl_team": "BUF",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg"
+     }
+    },
+    {
+     "key": "best_rb",
+     "emoji": "\u2b50",
+     "title": "Best RB",
+     "description": "Top-scoring starting RB",
+     "roster_id": 5,
+     "team": "OnDerricksBack",
+     "manager": "stanwaffles",
+     "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
+     "value": "36.80 pts",
+     "detail": "",
+     "player": {
+      "id": "3198",
+      "name": "Derrick Henry",
+      "position": "RB",
+      "nfl_team": "BAL",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/3198.jpg"
+     }
+    },
+    {
+     "key": "best_wr",
+     "emoji": "\u2b50",
+     "title": "Best WR",
+     "description": "Top-scoring starting WR",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "35.30 pts",
+     "detail": "",
+     "player": {
+      "id": "11646",
+      "name": "Jalen Coker",
+      "position": "WR",
+      "nfl_team": "CAR",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/11646.jpg"
+     }
+    },
+    {
+     "key": "best_te",
+     "emoji": "\u2b50",
+     "title": "Best TE",
+     "description": "Top-scoring starting TE",
+     "roster_id": 4,
+     "team": "Kershaw",
+     "manager": "MFitz10",
+     "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+     "value": "24.50 pts",
+     "detail": "",
+     "player": {
+      "id": "8130",
+      "name": "Trey McBride",
+      "position": "TE",
+      "nfl_team": "ARI",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/8130.jpg"
+     }
+    },
+    {
+     "key": "bench_qb",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer QB",
+     "description": "Top-scoring benched QB",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "41.44 pts",
+     "detail": "",
+     "player": {
+      "id": "9228",
+      "name": "Bryce Young",
+      "position": "QB",
+      "nfl_team": "CAR",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/9228.jpg"
+     }
+    },
+    {
+     "key": "bench_rb",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer RB",
+     "description": "Top-scoring benched RB",
+     "roster_id": 1,
+     "team": "The 2nd WCE",
+     "manager": "luis",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
+     "value": "21.90 pts",
+     "detail": "",
+     "player": {
+      "id": "12534",
+      "name": "Kyle Monangai",
+      "position": "RB",
+      "nfl_team": "CHI",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/12534.jpg"
+     }
+    },
+    {
+     "key": "bench_wr",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer WR",
+     "description": "Top-scoring benched WR",
+     "roster_id": 11,
+     "team": "2 Drakes Sutton Cock ",
+     "manager": "2Legit2QuitFantasy",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+     "value": "18.00 pts",
+     "detail": "",
+     "player": {
+      "id": "5872",
+      "name": "Deebo Samuel",
+      "position": "WR",
+      "nfl_team": "SF",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/5872.jpg"
+     }
+    },
+    {
+     "key": "bench_te",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer TE",
+     "description": "Top-scoring benched TE",
+     "roster_id": 4,
+     "team": "Kershaw",
+     "manager": "MFitz10",
+     "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+     "value": "27.80 pts",
+     "detail": "",
+     "player": {
+      "id": "8131",
+      "name": "Isaiah Likely",
+      "position": "TE",
+      "nfl_team": "NYG",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/8131.jpg"
+     }
+    },
+    {
+     "key": "bench_points",
+     "emoji": "\ud83c\udf46",
+     "title": "The Ron Jeremy Performance Award",
+     "description": "Most points left on the bench",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "78.74 pts on the bench",
+     "detail": "",
+     "player": null
+    }
+   ],
+   "projections_available": true
+  },
+  {
+   "week": 2,
+   "awards": [
+    {
+     "key": "money_shot",
+     "emoji": "\ud83d\udcb0",
+     "title": "The Money Shot",
+     "description": "Highest-scoring starter of the week",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "46.82 pts",
+     "detail": "",
+     "player": {
+      "id": "4984",
+      "name": "Josh Allen",
+      "position": "QB",
+      "nfl_team": "BUF",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg"
+     }
+    },
+    {
+     "key": "taco",
+     "emoji": "\ud83c\udf2e",
+     "title": "The Taco",
+     "description": "Lowest team score of the week",
+     "roster_id": 5,
+     "team": "OnDerricksBack",
+     "manager": "stanwaffles",
+     "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
+     "value": "68.98 pts",
+     "detail": "",
+     "player": null
+    },
+    {
+     "key": "best_manager",
+     "emoji": "\ud83d\udd25",
+     "title": "Best Manager",
+     "description": "Highest share of their best possible lineup",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "99.8%",
+     "detail": "167.02 of a possible 167.32",
+     "player": null
+    },
+    {
+     "key": "worst_manager",
+     "emoji": "\ud83e\udd14",
+     "title": "Worst Manager",
+     "description": "Lowest share of their best possible lineup",
+     "roster_id": 3,
+     "team": "MARK THIS TEAM 1ST PLACE",
+     "manager": "Rickrenova",
+     "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
+     "value": "71.2%",
+     "detail": "95.52 of a possible 134.18",
+     "player": null
+    },
+    {
+     "key": "blowout",
+     "emoji": "\ud83d\ude02",
+     "title": "Biggest Blowout",
+     "description": "Largest margin of victory",
+     "roster_id": 4,
+     "team": "Kershaw",
+     "manager": "MFitz10",
+     "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+     "value": "+65.04",
+     "detail": "Beat Honeydewshuffle 169.70 to 104.66",
+     "player": null
+    },
+    {
+     "key": "narrow",
+     "emoji": "\ud83d\ude31",
+     "title": "Narrow Victory",
+     "description": "Smallest margin of victory",
+     "roster_id": 3,
+     "team": "MARK THIS TEAM 1ST PLACE",
+     "manager": "Rickrenova",
+     "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
+     "value": "+5.32",
+     "detail": "Beat Give Lamar his Flowers 95.52 to 90.20",
+     "player": null
+    },
+    {
+     "key": "overachiever",
+     "emoji": "\ud83e\udd13",
+     "title": "Overachiever",
+     "description": "Beat their projection by the most",
+     "roster_id": 2,
+     "team": "Mdots",
+     "manager": "Mdots",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
+     "value": "+44.77",
+     "detail": "Scored 161.68, projected 116.91",
+     "player": null
+    },
+    {
+     "key": "below",
+     "emoji": "\ud83d\udc80",
+     "title": "Below Expectation",
+     "description": "Fell furthest short of their projection",
+     "roster_id": 5,
+     "team": "OnDerricksBack",
+     "manager": "stanwaffles",
+     "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
+     "value": "-42.88",
+     "detail": "Scored 68.98, projected 111.86",
+     "player": null
+    },
+    {
+     "key": "best_qb",
+     "emoji": "\u2b50",
+     "title": "Best QB",
+     "description": "Top-scoring starting QB",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "46.82 pts",
+     "detail": "",
+     "player": {
+      "id": "4984",
+      "name": "Josh Allen",
+      "position": "QB",
+      "nfl_team": "BUF",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg"
+     }
+    },
+    {
+     "key": "best_rb",
+     "emoji": "\u2b50",
+     "title": "Best RB",
+     "description": "Top-scoring starting RB",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "29.20 pts",
+     "detail": "",
+     "player": {
+      "id": "6813",
+      "name": "Jonathan Taylor",
+      "position": "RB",
+      "nfl_team": "IND",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/6813.jpg"
+     }
+    },
+    {
+     "key": "best_wr",
+     "emoji": "\u2b50",
+     "title": "Best WR",
+     "description": "Top-scoring starting WR",
+     "roster_id": 11,
+     "team": "2 Drakes Sutton Cock ",
+     "manager": "2Legit2QuitFantasy",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+     "value": "44.00 pts",
+     "detail": "",
+     "player": {
+      "id": "9488",
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "nfl_team": "SEA",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/9488.jpg"
+     }
+    },
+    {
+     "key": "best_te",
+     "emoji": "\u2b50",
+     "title": "Best TE",
+     "description": "Top-scoring starting TE",
+     "roster_id": 2,
+     "team": "Mdots",
+     "manager": "Mdots",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
+     "value": "26.60 pts",
+     "detail": "",
+     "player": {
+      "id": "1466",
+      "name": "Travis Kelce",
+      "position": "TE",
+      "nfl_team": "KC",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/1466.jpg"
+     }
+    },
+    {
+     "key": "bench_qb",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer QB",
+     "description": "Top-scoring benched QB",
+     "roster_id": 3,
+     "team": "MARK THIS TEAM 1ST PLACE",
+     "manager": "Rickrenova",
+     "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
+     "value": "40.78 pts",
+     "detail": "",
+     "player": {
+      "id": "3163",
+      "name": "Jared Goff",
+      "position": "QB",
+      "nfl_team": "DET",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/3163.jpg"
+     }
+    },
+    {
+     "key": "bench_rb",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer RB",
+     "description": "Top-scoring benched RB",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "14.80 pts",
+     "detail": "",
+     "player": {
+      "id": "13345",
+      "name": "Jonah Coleman",
+      "position": "RB",
+      "nfl_team": "DEN",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/13345.jpg"
+     }
+    },
+    {
+     "key": "bench_wr",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer WR",
+     "description": "Top-scoring benched WR",
+     "roster_id": 11,
+     "team": "2 Drakes Sutton Cock ",
+     "manager": "2Legit2QuitFantasy",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+     "value": "24.40 pts",
+     "detail": "",
+     "player": {
+      "id": "10213",
+      "name": "Tre Tucker",
+      "position": "WR",
+      "nfl_team": "LV",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/10213.jpg"
+     }
+    },
+    {
+     "key": "bench_te",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer TE",
+     "description": "Top-scoring benched TE",
+     "roster_id": 2,
+     "team": "Mdots",
+     "manager": "Mdots",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
+     "value": "27.50 pts",
+     "detail": "",
+     "player": {
+      "id": "5001",
+      "name": "Dalton Schultz",
+      "position": "TE",
+      "nfl_team": "HOU",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/5001.jpg"
+     }
+    },
+    {
+     "key": "bench_points",
+     "emoji": "\ud83c\udf46",
+     "title": "The Ron Jeremy Performance Award",
+     "description": "Most points left on the bench",
+     "roster_id": 2,
+     "team": "Mdots",
+     "manager": "Mdots",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
+     "value": "103.38 pts on the bench",
+     "detail": "",
+     "player": null
+    }
+   ],
+   "projections_available": true
+  },
+  {
+   "week": 3,
+   "awards": [
+    {
+     "key": "money_shot",
+     "emoji": "\ud83d\udcb0",
+     "title": "The Money Shot",
+     "description": "Highest-scoring starter of the week",
+     "roster_id": 8,
+     "team": "Give Lamar his Flowers",
+     "manager": "Bernie55",
+     "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
+     "value": "41.40 pts",
+     "detail": "",
+     "player": {
+      "id": "9221",
+      "name": "Jahmyr Gibbs",
+      "position": "RB",
+      "nfl_team": "DET",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/9221.jpg"
+     }
+    },
+    {
+     "key": "taco",
+     "emoji": "\ud83c\udf2e",
+     "title": "The Taco",
+     "description": "Lowest team score of the week",
+     "roster_id": 3,
+     "team": "MARK THIS TEAM 1ST PLACE",
+     "manager": "Rickrenova",
+     "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
+     "value": "83.16 pts",
+     "detail": "",
+     "player": null
+    },
+    {
+     "key": "best_manager",
+     "emoji": "\ud83d\udd25",
+     "title": "Best Manager",
+     "description": "Highest share of their best possible lineup",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "98.7%",
+     "detail": "134.66 of a possible 136.46",
+     "player": null
+    },
+    {
+     "key": "worst_manager",
+     "emoji": "\ud83e\udd14",
+     "title": "Worst Manager",
+     "description": "Lowest share of their best possible lineup",
+     "roster_id": 10,
+     "team": "TheBurdenOfProof",
+     "manager": "JimLacko",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
+     "value": "73.3%",
+     "detail": "103.94 of a possible 141.86",
+     "player": null
+    },
+    {
+     "key": "blowout",
+     "emoji": "\ud83d\ude02",
+     "title": "Biggest Blowout",
+     "description": "Largest margin of victory",
+     "roster_id": 11,
+     "team": "2 Drakes Sutton Cock ",
+     "manager": "2Legit2QuitFantasy",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+     "value": "+68.86",
+     "detail": "Beat MARK THIS TEAM 1ST PLACE 152.02 to 83.16",
+     "player": null
+    },
+    {
+     "key": "narrow",
+     "emoji": "\ud83d\ude31",
+     "title": "Narrow Victory",
+     "description": "Smallest margin of victory",
+     "roster_id": 12,
+     "team": "Thunder Lips ",
+     "manager": "Thunder_Lips",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+     "value": "+12.98",
+     "detail": "Beat Mdots 115.62 to 102.64",
+     "player": null
+    },
+    {
+     "key": "overachiever",
+     "emoji": "\ud83e\udd13",
+     "title": "Overachiever",
+     "description": "Beat their projection by the most",
+     "roster_id": 1,
+     "team": "The 2nd WCE",
+     "manager": "luis",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
+     "value": "+47.09",
+     "detail": "Scored 168.88, projected 121.79",
+     "player": null
+    },
+    {
+     "key": "below",
+     "emoji": "\ud83d\udc80",
+     "title": "Below Expectation",
+     "description": "Fell furthest short of their projection",
+     "roster_id": 3,
+     "team": "MARK THIS TEAM 1ST PLACE",
+     "manager": "Rickrenova",
+     "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
+     "value": "-32.09",
+     "detail": "Scored 83.16, projected 115.25",
+     "player": null
+    },
+    {
+     "key": "best_qb",
+     "emoji": "\u2b50",
+     "title": "Best QB",
+     "description": "Top-scoring starting QB",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "35.04 pts",
+     "detail": "",
+     "player": {
+      "id": "1373",
+      "name": "Geno Smith",
+      "position": "QB",
+      "nfl_team": "NYJ",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/1373.jpg"
+     }
+    },
+    {
+     "key": "best_rb",
+     "emoji": "\u2b50",
+     "title": "Best RB",
+     "description": "Top-scoring starting RB",
+     "roster_id": 8,
+     "team": "Give Lamar his Flowers",
+     "manager": "Bernie55",
+     "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
+     "value": "41.40 pts",
+     "detail": "",
+     "player": {
+      "id": "9221",
+      "name": "Jahmyr Gibbs",
+      "position": "RB",
+      "nfl_team": "DET",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/9221.jpg"
+     }
+    },
+    {
+     "key": "best_wr",
+     "emoji": "\u2b50",
+     "title": "Best WR",
+     "description": "Top-scoring starting WR",
+     "roster_id": 11,
+     "team": "2 Drakes Sutton Cock ",
+     "manager": "2Legit2QuitFantasy",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+     "value": "36.86 pts",
+     "detail": "",
+     "player": {
+      "id": "9488",
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "nfl_team": "SEA",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/9488.jpg"
+     }
+    },
+    {
+     "key": "best_te",
+     "emoji": "\u2b50",
+     "title": "Best TE",
+     "description": "Top-scoring starting TE",
+     "roster_id": 9,
+     "team": "Honeydewshuffle",
+     "manager": "Honeydewshuffle7",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
+     "value": "29.10 pts",
+     "detail": "",
+     "player": {
+      "id": "11604",
+      "name": "Brock Bowers",
+      "position": "TE",
+      "nfl_team": "LV",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/11604.jpg"
+     }
+    },
+    {
+     "key": "bench_qb",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer QB",
+     "description": "Top-scoring benched QB",
+     "roster_id": 10,
+     "team": "TheBurdenOfProof",
+     "manager": "JimLacko",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
+     "value": "40.66 pts",
+     "detail": "",
+     "player": {
+      "id": "4943",
+      "name": "Sam Darnold",
+      "position": "QB",
+      "nfl_team": "SEA",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/4943.jpg"
+     }
+    },
+    {
+     "key": "bench_rb",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer RB",
+     "description": "Top-scoring benched RB",
+     "roster_id": 1,
+     "team": "The 2nd WCE",
+     "manager": "luis",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
+     "value": "13.70 pts",
+     "detail": "",
+     "player": {
+      "id": "9511",
+      "name": "Keaton Mitchell",
+      "position": "RB",
+      "nfl_team": "LAC",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/9511.jpg"
+     }
+    },
+    {
+     "key": "bench_wr",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer WR",
+     "description": "Top-scoring benched WR",
+     "roster_id": 8,
+     "team": "Give Lamar his Flowers",
+     "manager": "Bernie55",
+     "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
+     "value": "25.90 pts",
+     "detail": "",
+     "player": {
+      "id": "10232",
+      "name": "Michael Wilson",
+      "position": "WR",
+      "nfl_team": "ARI",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/10232.jpg"
+     }
+    },
+    {
+     "key": "bench_te",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer TE",
+     "description": "Top-scoring benched TE",
+     "roster_id": 9,
+     "team": "Honeydewshuffle",
+     "manager": "Honeydewshuffle7",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
+     "value": "25.00 pts",
+     "detail": "",
+     "player": {
+      "id": "13330",
+      "name": "Kenyon Sadiq",
+      "position": "TE",
+      "nfl_team": "NYJ",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/13330.jpg"
+     }
+    },
+    {
+     "key": "bench_points",
+     "emoji": "\ud83c\udf46",
+     "title": "The Ron Jeremy Performance Award",
+     "description": "Most points left on the bench",
+     "roster_id": 9,
+     "team": "Honeydewshuffle",
+     "manager": "Honeydewshuffle7",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
+     "value": "79.48 pts on the bench",
+     "detail": "",
+     "player": null
+    }
+   ],
+   "projections_available": true
+  }
+ ],
+ "tallies": [
+  {
+   "roster_id": 7,
+   "team": "junejune",
+   "manager": "junejune",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+   "total": 9,
+   "counts": {
+    "money_shot": 2,
+    "best_qb": 2,
+    "bench_qb": 1,
+    "bench_points": 1,
+    "best_manager": 2,
+    "best_rb": 1
+   }
+  },
+  {
+   "roster_id": 6,
+   "team": "WATSON your ass",
+   "manager": "aboevan28",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+   "total": 6,
+   "counts": {
+    "best_manager": 1,
+    "blowout": 1,
+    "overachiever": 1,
+    "best_wr": 1,
+    "bench_rb": 1,
+    "best_qb": 1
+   }
+  },
+  {
+   "roster_id": 3,
+   "team": "MARK THIS TEAM 1ST PLACE",
+   "manager": "Rickrenova",
+   "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
+   "total": 5,
+   "counts": {
+    "worst_manager": 1,
+    "narrow": 1,
+    "bench_qb": 1,
+    "taco": 1,
+    "below": 1
+   }
+  },
+  {
+   "roster_id": 11,
+   "team": "2 Drakes Sutton Cock ",
+   "manager": "2Legit2QuitFantasy",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+   "total": 5,
+   "counts": {
+    "bench_wr": 2,
+    "best_wr": 2,
+    "blowout": 1
+   }
+  },
+  {
+   "roster_id": 1,
+   "team": "The 2nd WCE",
+   "manager": "luis",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
+   "total": 4,
+   "counts": {
+    "narrow": 1,
+    "bench_rb": 2,
+    "overachiever": 1
+   }
+  },
+  {
+   "roster_id": 2,
+   "team": "Mdots",
+   "manager": "Mdots",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
+   "total": 4,
+   "counts": {
+    "overachiever": 1,
+    "best_te": 1,
+    "bench_te": 1,
+    "bench_points": 1
+   }
+  },
+  {
+   "roster_id": 4,
+   "team": "Kershaw",
+   "manager": "MFitz10",
+   "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+   "total": 4,
+   "counts": {
+    "worst_manager": 1,
+    "best_te": 1,
+    "bench_te": 1,
+    "blowout": 1
+   }
+  },
+  {
+   "roster_id": 10,
+   "team": "TheBurdenOfProof",
+   "manager": "JimLacko",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
+   "total": 4,
+   "counts": {
+    "taco": 1,
+    "below": 1,
+    "worst_manager": 1,
+    "bench_qb": 1
+   }
+  },
+  {
+   "roster_id": 5,
+   "team": "OnDerricksBack",
+   "manager": "stanwaffles",
+   "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
+   "total": 3,
+   "counts": {
+    "best_rb": 1,
+    "taco": 1,
+    "below": 1
+   }
+  },
+  {
+   "roster_id": 8,
+   "team": "Give Lamar his Flowers",
+   "manager": "Bernie55",
+   "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
+   "total": 3,
+   "counts": {
+    "money_shot": 1,
+    "best_rb": 1,
+    "bench_wr": 1
+   }
+  },
+  {
+   "roster_id": 9,
+   "team": "Honeydewshuffle",
+   "manager": "Honeydewshuffle7",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
+   "total": 3,
+   "counts": {
+    "best_te": 1,
+    "bench_te": 1,
+    "bench_points": 1
+   }
+  },
+  {
+   "roster_id": 12,
+   "team": "Thunder Lips ",
+   "manager": "Thunder_Lips",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
+   "total": 1,
+   "counts": {
+    "narrow": 1
+   }
+  }
+ ]
+}
