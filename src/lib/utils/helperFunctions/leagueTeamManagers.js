@@ -80,3 +80,9 @@ const processUsers = (rawUsers) => {
         user.user_name = user.user_name ?? user.display_name;
 		finalUsers[user.user_id] = user;
         const manager = managers.find(m => m.managerID === user.user_id);
+        if(manager) {
+            finalUsers[user.user_id].display_name = manager.name;
+        }
+	}
+	return finalUsers;
+}
