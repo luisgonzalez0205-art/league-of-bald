@@ -1,0 +1,589 @@
+{
+  "league": "Legend of Bald",
+  "season": "2026",
+  "weeks": [
+    1,
+    2,
+    3
+  ],
+  "updated": "2026-09-29 16:17 UTC",
+  "scoring": {
+    "h2h_win": 6.0,
+    "h2h_tie": 3.0,
+    "median_win": 0.0,
+    "median_tie": 0.0,
+    "all_play_win": 0.0,
+    "non_opponent_win": 1.0,
+    "non_opponent_tie": 0.5,
+    "top_n": 0,
+    "top_n_bonus": 0.0,
+    "high_score_bonus": 0.0,
+    "points_for_multiplier": 0.0
+  },
+  "standings": [
+    {
+      "rank": 1,
+      "roster_id": 7,
+      "team": "junejune",
+      "manager": "junejune",
+      "custom_points": 41.0,
+      "h2h_wins": 3,
+      "h2h_losses": 0,
+      "h2h_ties": 0,
+      "median_wins": 3,
+      "median_losses": 0,
+      "median_ties": 0,
+      "all_play_wins": 26,
+      "all_play_losses": 7,
+      "all_play_ties": 0,
+      "non_opp_wins": 23,
+      "non_opp_losses": 7,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 472.84,
+      "points_against": 359.76,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 171.16,
+          "result": "W",
+          "median": 122.61,
+          "standings_points": 15.0
+        },
+        {
+          "week": 2,
+          "points": 167.02,
+          "result": "W",
+          "median": 107.26,
+          "standings_points": 15.0
+        },
+        {
+          "week": 3,
+          "points": 134.66,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 11.0
+        }
+      ],
+      "all_play_pct": 0.7879
+    },
+    {
+      "rank": 2,
+      "roster_id": 1,
+      "team": "The 2nd WCE",
+      "manager": "luis",
+      "custom_points": 38.0,
+      "h2h_wins": 3,
+      "h2h_losses": 0,
+      "h2h_ties": 0,
+      "median_wins": 2,
+      "median_losses": 1,
+      "median_ties": 0,
+      "all_play_wins": 23,
+      "all_play_losses": 10,
+      "all_play_ties": 0,
+      "non_opp_wins": 20,
+      "non_opp_losses": 10,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 1,
+      "points_for": 406.02,
+      "points_against": 356.64,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 108.96,
+          "result": "W",
+          "median": 122.61,
+          "standings_points": 9.0
+        },
+        {
+          "week": 2,
+          "points": 128.18,
+          "result": "W",
+          "median": 107.26,
+          "standings_points": 13.0
+        },
+        {
+          "week": 3,
+          "points": 168.88,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 16.0
+        }
+      ],
+      "all_play_pct": 0.697
+    },
+    {
+      "rank": 3,
+      "roster_id": 6,
+      "team": "WATSON your ass",
+      "manager": "aboevan28",
+      "custom_points": 35.0,
+      "h2h_wins": 2,
+      "h2h_losses": 1,
+      "h2h_ties": 0,
+      "median_wins": 3,
+      "median_losses": 0,
+      "median_ties": 0,
+      "all_play_wins": 25,
+      "all_play_losses": 8,
+      "all_play_ties": 0,
+      "non_opp_wins": 23,
+      "non_opp_losses": 7,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 1,
+      "points_for": 456.64,
+      "points_against": 365.06,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 204.2,
+          "result": "W",
+          "median": 122.61,
+          "standings_points": 16.0
+        },
+        {
+          "week": 2,
+          "points": 108.8,
+          "result": "W",
+          "median": 107.26,
+          "standings_points": 11.0
+        },
+        {
+          "week": 3,
+          "points": 143.64,
+          "result": "L",
+          "median": 125.14,
+          "standings_points": 8.0
+        }
+      ],
+      "all_play_pct": 0.7576
+    },
+    {
+      "rank": 4,
+      "roster_id": 8,
+      "team": "Give Lamar his Flowers",
+      "manager": "Bernie55",
+      "custom_points": 30.0,
+      "h2h_wins": 2,
+      "h2h_losses": 1,
+      "h2h_ties": 0,
+      "median_wins": 2,
+      "median_losses": 1,
+      "median_ties": 0,
+      "all_play_wins": 20,
+      "all_play_losses": 13,
+      "all_play_ties": 0,
+      "non_opp_wins": 18,
+      "non_opp_losses": 12,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 397.1,
+      "points_against": 302.54,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 154.86,
+          "result": "W",
+          "median": 122.61,
+          "standings_points": 14.0
+        },
+        {
+          "week": 2,
+          "points": 90.2,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 1.0
+        },
+        {
+          "week": 3,
+          "points": 152.04,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 15.0
+        }
+      ],
+      "all_play_pct": 0.6061
+    },
+    {
+      "rank": 5,
+      "roster_id": 4,
+      "team": "Kershaw",
+      "manager": "MFitz10",
+      "custom_points": 25.0,
+      "h2h_wins": 1,
+      "h2h_losses": 2,
+      "h2h_ties": 0,
+      "median_wins": 2,
+      "median_losses": 1,
+      "median_ties": 0,
+      "all_play_wins": 20,
+      "all_play_losses": 13,
+      "all_play_ties": 0,
+      "non_opp_wins": 19,
+      "non_opp_losses": 11,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 1,
+      "points_for": 402.2,
+      "points_against": 460.9,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 127.2,
+          "result": "L",
+          "median": 122.61,
+          "standings_points": 6.0
+        },
+        {
+          "week": 2,
+          "points": 169.7,
+          "result": "W",
+          "median": 107.26,
+          "standings_points": 16.0
+        },
+        {
+          "week": 3,
+          "points": 105.3,
+          "result": "L",
+          "median": 125.14,
+          "standings_points": 3.0
+        }
+      ],
+      "all_play_pct": 0.6061
+    },
+    {
+      "rank": 6,
+      "roster_id": 2,
+      "team": "Mdots",
+      "manager": "Mdots",
+      "custom_points": 22.0,
+      "h2h_wins": 1,
+      "h2h_losses": 2,
+      "h2h_ties": 0,
+      "median_wins": 2,
+      "median_losses": 1,
+      "median_ties": 0,
+      "all_play_wins": 17,
+      "all_play_losses": 16,
+      "all_play_ties": 0,
+      "non_opp_wins": 16,
+      "non_opp_losses": 14,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 408.12,
+      "points_against": 392.5,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 143.8,
+          "result": "L",
+          "median": 122.61,
+          "standings_points": 7.0
+        },
+        {
+          "week": 2,
+          "points": 161.68,
+          "result": "W",
+          "median": 107.26,
+          "standings_points": 14.0
+        },
+        {
+          "week": 3,
+          "points": 102.64,
+          "result": "L",
+          "median": 125.14,
+          "standings_points": 1.0
+        }
+      ],
+      "all_play_pct": 0.5152
+    },
+    {
+      "rank": 7,
+      "roster_id": 9,
+      "team": "Honeydewshuffle",
+      "manager": "Honeydewshuffle7",
+      "custom_points": 20.0,
+      "h2h_wins": 1,
+      "h2h_losses": 2,
+      "h2h_ties": 0,
+      "median_wins": 1,
+      "median_losses": 2,
+      "median_ties": 0,
+      "all_play_wins": 15,
+      "all_play_losses": 18,
+      "all_play_ties": 0,
+      "non_opp_wins": 14,
+      "non_opp_losses": 16,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 364.8,
+      "points_against": 430.1,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 118.02,
+          "result": "L",
+          "median": 122.61,
+          "standings_points": 5.0
+        },
+        {
+          "week": 2,
+          "points": 104.66,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 3.0
+        },
+        {
+          "week": 3,
+          "points": 142.12,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 12.0
+        }
+      ],
+      "all_play_pct": 0.4545
+    },
+    {
+      "rank": 8,
+      "roster_id": 11,
+      "team": "2 Drakes Sutton Cock ",
+      "manager": "2Legit2QuitFantasy",
+      "custom_points": 20.0,
+      "h2h_wins": 1,
+      "h2h_losses": 2,
+      "h2h_ties": 0,
+      "median_wins": 1,
+      "median_losses": 2,
+      "median_ties": 0,
+      "all_play_wins": 15,
+      "all_play_losses": 18,
+      "all_play_ties": 0,
+      "non_opp_wins": 14,
+      "non_opp_losses": 16,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 359.46,
+      "points_against": 399.7,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 101.72,
+          "result": "L",
+          "median": 122.61,
+          "standings_points": 1.0
+        },
+        {
+          "week": 2,
+          "points": 105.72,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 5.0
+        },
+        {
+          "week": 3,
+          "points": 152.02,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 14.0
+        }
+      ],
+      "all_play_pct": 0.4545
+    },
+    {
+      "rank": 9,
+      "roster_id": 12,
+      "team": "Thunder Lips ",
+      "manager": "Thunder_Lips",
+      "custom_points": 20.0,
+      "h2h_wins": 1,
+      "h2h_losses": 2,
+      "h2h_ties": 0,
+      "median_wins": 1,
+      "median_losses": 2,
+      "median_ties": 0,
+      "all_play_wins": 15,
+      "all_play_losses": 18,
+      "all_play_ties": 0,
+      "non_opp_wins": 14,
+      "non_opp_losses": 16,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 335.18,
+      "points_against": 378.62,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 107.54,
+          "result": "L",
+          "median": 122.61,
+          "standings_points": 3.0
+        },
+        {
+          "week": 2,
+          "points": 112.02,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 7.0
+        },
+        {
+          "week": 3,
+          "points": 115.62,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 10.0
+        }
+      ],
+      "all_play_pct": 0.4545
+    },
+    {
+      "rank": 10,
+      "roster_id": 3,
+      "team": "Copperfield",
+      "manager": "Rickrenova",
+      "custom_points": 20.0,
+      "h2h_wins": 2,
+      "h2h_losses": 1,
+      "h2h_ties": 0,
+      "median_wins": 1,
+      "median_losses": 2,
+      "median_ties": 0,
+      "all_play_wins": 10,
+      "all_play_losses": 23,
+      "all_play_ties": 0,
+      "non_opp_wins": 8,
+      "non_opp_losses": 22,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 331.94,
+      "points_against": 360.24,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 153.26,
+          "result": "W",
+          "median": 122.61,
+          "standings_points": 13.0
+        },
+        {
+          "week": 2,
+          "points": 95.52,
+          "result": "W",
+          "median": 107.26,
+          "standings_points": 7.0
+        },
+        {
+          "week": 3,
+          "points": 83.16,
+          "result": "L",
+          "median": 125.14,
+          "standings_points": 0.0
+        }
+      ],
+      "all_play_pct": 0.303
+    },
+    {
+      "rank": 11,
+      "roster_id": 5,
+      "team": "OnDerricksBack",
+      "manager": "stanwaffles",
+      "custom_points": 11.0,
+      "h2h_wins": 1,
+      "h2h_losses": 2,
+      "h2h_ties": 0,
+      "median_wins": 0,
+      "median_losses": 3,
+      "median_ties": 0,
+      "all_play_wins": 6,
+      "all_play_losses": 27,
+      "all_play_ties": 0,
+      "non_opp_wins": 5,
+      "non_opp_losses": 25,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 282.28,
+      "points_against": 329.02,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 106.16,
+          "result": "W",
+          "median": 122.61,
+          "standings_points": 7.0
+        },
+        {
+          "week": 2,
+          "points": 68.98,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 0.0
+        },
+        {
+          "week": 3,
+          "points": 107.14,
+          "result": "L",
+          "median": 125.14,
+          "standings_points": 4.0
+        }
+      ],
+      "all_play_pct": 0.1818
+    },
+    {
+      "rank": 12,
+      "roster_id": 10,
+      "team": "TheBurdenOfProof",
+      "manager": "JimLacko",
+      "custom_points": 6.0,
+      "h2h_wins": 0,
+      "h2h_losses": 3,
+      "h2h_ties": 0,
+      "median_wins": 0,
+      "median_losses": 3,
+      "median_ties": 0,
+      "all_play_wins": 6,
+      "all_play_losses": 27,
+      "all_play_ties": 0,
+      "non_opp_wins": 6,
+      "non_opp_losses": 24,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 287.5,
+      "points_against": 369.0,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 78.1,
+          "result": "L",
+          "median": 122.61,
+          "standings_points": 0.0
+        },
+        {
+          "week": 2,
+          "points": 105.46,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 4.0
+        },
+        {
+          "week": 3,
+          "points": 103.94,
+          "result": "L",
+          "median": 125.14,
+          "standings_points": 2.0
+        }
+      ],
+      "all_play_pct": 0.1818
+    }
+  ]
+}
