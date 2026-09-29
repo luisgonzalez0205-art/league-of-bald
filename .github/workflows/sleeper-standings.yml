@@ -1,0 +1,47 @@
+name: Update Sleeper standings
+
+on:
+  schedule:
+    # Wednesdays 12:00 UTC (8 AM ET), after Monday Night Football
+    - cron: "0 12 * * 3"
+  workflow_dispatch:   # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write      # lets the workflow commit the results
+
+concurrency:
+  group: sleeper-standings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: sleeper-standings   # everything lives in this folder
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Calculate standings
+        env:
+          # Optional repo variable; if blank, league_id from config.json is used.
+          SLEEPER_LEAGUE_ID: ${{ vars.SLEEPER_LEAGUE_ID }}
+        run: python standings.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add standings
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Update Sleeper standings"
+          # In case someone pushed to the repo while this was running
+          git pull --rebase
+          git push
