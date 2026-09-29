@@ -47,6 +47,7 @@ def get(path, retries=3):
 DEFAULTS = {
     "league_id": "",
     "output_dir": "standings",
+    "site_json_path": None,      # optional extra copy of standings.json for a website
     "start_week": None,          # None = league's start week
     "through_week": None,        # None = auto-detect last completed week
     "include_current_week": False,
@@ -118,10 +119,15 @@ def team_names(users, rosters):
     for r in rosters:
         u = by_user.get(r.get("owner_id"))
         if u:
-            team = (u.get("metadata") or {}).get("team_name") or u.get("display_name")
-            names[r["roster_id"]] = {"team": team, "manager": u.get("display_name", "")}
+            meta = u.get("metadata") or {}
+            team = meta.get("team_name") or u.get("display_name")
+            avatar = meta.get("avatar") or (
+                f"https://sleepercdn.com/avatars/thumbs/{u['avatar']}" if u.get("avatar") else None)
+            names[r["roster_id"]] = {"team": team, "manager": u.get("display_name", ""),
+                                     "avatar": avatar}
         else:
-            names[r["roster_id"]] = {"team": f"Team {r['roster_id']}", "manager": "(orphan)"}
+            names[r["roster_id"]] = {"team": f"Team {r['roster_id']}", "manager": "(orphan)",
+                                     "avatar": None}
     return names
 
 
@@ -262,10 +268,18 @@ def write_outputs(cfg, league, names, ordered, weeks_played):
     for place, (rid, r) in enumerate(ordered, 1):
         rows.append({"rank": place, "roster_id": rid, **names[rid], **r})
 
+    payload = {"league": league.get("name"), "season": league.get("season"),
+               "weeks": weeks_played, "updated": now,
+               "scoring": cfg["scoring"], "standings": rows}
     with open(os.path.join(out, "standings.json"), "w") as f:
-        json.dump({"league": league.get("name"), "season": league.get("season"),
-                   "weeks": weeks_played, "updated": now,
-                   "scoring": cfg["scoring"], "standings": rows}, f, indent=2)
+        json.dump(payload, f, indent=2)
+    if cfg.get("site_json_path"):
+        site_path = cfg["site_json_path"]
+        os.makedirs(os.path.dirname(site_path) or ".", exist_ok=True)
+        slim = {**payload, "standings": [{k: v for k, v in r.items() if k != "weekly"}
+                                         for r in rows]}
+        with open(site_path, "w") as f:
+            json.dump(slim, f, indent=2)
 
     sc = cfg["scoring"]
     show_median = bool(sc["median_win"] or sc["median_tie"])
