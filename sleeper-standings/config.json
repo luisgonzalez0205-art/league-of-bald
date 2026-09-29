@@ -1,4 +1,4 @@
-
+{
   "league_id": "1385071335918538752",
   "output_dir": "standings",
   "through_week": null,
@@ -17,3 +17,4 @@
     "points_for_multiplier": 0.0
   },
   "tiebreakers": ["custom_points", "points_for", "h2h_wins"]
+}
