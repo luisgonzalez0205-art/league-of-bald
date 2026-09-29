@@ -1,7 +1,7 @@
 {
   "league_id": "1385071335918538752",
   "output_dir": "standings",
-     "site_json_path": "../static/custom-standings.json",
+       "site_json_path": "../static/custom-standings.json",
   "through_week": null,
   "include_current_week": false,
   "scoring": {
