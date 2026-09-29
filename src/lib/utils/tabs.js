@@ -52,6 +52,16 @@ export const tabs = [
                 dest: '/standings',
             },
             {
+                icon: 'insights',
+                label: 'Shoulda Coulda Woulda',
+                dest: '/shoulda-coulda-woulda',
+            },
+            {
+                icon: 'workspace_premium',
+                label: 'Performance Awards',
+                dest: '/performance-awards',
+            },
+            {
                 icon: 'view_comfy',
                 label: 'Drafts',
                 dest: '/drafts',
