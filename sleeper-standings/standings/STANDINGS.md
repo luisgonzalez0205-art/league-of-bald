@@ -1,21 +1,21 @@
 # Legend of Bald — 2026 Custom Standings
 
-Through **Week 3** · updated 2026-09-30 12:14 UTC
+Through **Week 4** · updated 2026-10-06 15:52 UTC
 
 | # | Team | Manager | VP | H2H | Non-Opp | All-Play | AP % | PF | PA |
 |---|------|---------|---:|:---:|:---:|:---:|---:|---:|---:|
-| 1 | junejune | junejune | 41 | 3-0 | 23-7 | 26-7 | 0.788 | 472.84 | 359.76 |
-| 2 | The 2nd WCE | luis | 38 | 3-0 | 20-10 | 23-10 | 0.697 | 406.02 | 356.64 |
-| 3 | WATSON your ass | aboevan28 | 35 | 2-1 | 23-7 | 25-8 | 0.758 | 456.64 | 365.06 |
-| 4 | Give Lamar his Flowers | Bernie55 | 30 | 2-1 | 18-12 | 20-13 | 0.606 | 397.10 | 302.54 |
-| 5 | Kershaw | MFitz10 | 25 | 1-2 | 19-11 | 20-13 | 0.606 | 402.20 | 460.90 |
-| 6 | Mdots | Mdots | 22 | 1-2 | 16-14 | 17-16 | 0.515 | 408.12 | 392.50 |
-| 7 | Honeydewshuffle | Honeydewshuffle7 | 20 | 1-2 | 14-16 | 15-18 | 0.455 | 364.80 | 430.10 |
-| 8 | 2 Drakes Sutton Cock  | 2Legit2QuitFantasy | 20 | 1-2 | 14-16 | 15-18 | 0.455 | 359.46 | 399.70 |
-| 9 | Thunder Lips  | Thunder_Lips | 20 | 1-2 | 14-16 | 15-18 | 0.455 | 335.18 | 378.62 |
-| 10 | MARK THIS TEAM 1ST PLACE | Rickrenova | 20 | 2-1 | 8-22 | 10-23 | 0.303 | 331.94 | 360.24 |
-| 11 | OnDerricksBack | stanwaffles | 11 | 1-2 | 5-25 | 6-27 | 0.182 | 282.28 | 329.02 |
-| 12 | TheBurdenOfProof | JimLacko | 6 | 0-3 | 6-24 | 6-27 | 0.182 | 287.50 | 369.00 |
+| 1 | junejune | junejune | 57 | 4-0 | 33-7 | 37-7 | 0.841 | 642.66 | 420.22 |
+| 2 | Give Lamar his Flowers | Bernie55 | 45 | 3-1 | 27-13 | 30-14 | 0.682 | 557.38 | 379.90 |
+| 3 | The 2nd WCE | luis | 41 | 3-1 | 23-17 | 26-18 | 0.591 | 514.34 | 478.92 |
+| 4 | Kershaw | MFitz10 | 38 | 2-2 | 26-14 | 28-16 | 0.636 | 554.48 | 599.88 |
+| 5 | WATSON your ass | aboevan28 | 35 | 2-2 | 23-17 | 25-19 | 0.568 | 517.10 | 534.88 |
+| 6 | Thunder Lips  | Thunder_Lips | 34 | 2-2 | 22-18 | 24-20 | 0.545 | 488.46 | 483.46 |
+| 7 | Honeydewshuffle | Honeydewshuffle7 | 29 | 2-2 | 17-23 | 19-25 | 0.432 | 487.08 | 538.42 |
+| 8 | Mdots | Mdots | 27 | 1-3 | 21-19 | 22-22 | 0.500 | 539.04 | 526.20 |
+| 9 | MARK THIS TEAM 1ST PLACE | Rickrenova | 27 | 2-2 | 15-25 | 17-27 | 0.386 | 470.92 | 512.52 |
+| 10 | 2 Drakes Sutton Cock  | 2Legit2QuitFantasy | 22 | 1-3 | 16-24 | 17-27 | 0.386 | 464.30 | 552.98 |
+| 11 | TheBurdenOfProof | JimLacko | 17 | 1-3 | 11-29 | 12-32 | 0.273 | 421.20 | 499.92 |
+| 12 | WetDogShit | stanwaffles | 12 | 1-3 | 6-34 | 7-37 | 0.159 | 359.64 | 489.30 |
 
 ## Scoring rules
 
