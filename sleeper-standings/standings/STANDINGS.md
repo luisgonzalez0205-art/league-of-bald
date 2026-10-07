@@ -1,6 +1,6 @@
 # Legend of Bald — 2026 Custom Standings
 
-Through **Week 4** · updated 2026-10-06 15:52 UTC
+Through **Week 4** · updated 2026-10-07 12:15 UTC
 
 | # | Team | Manager | VP | H2H | Non-Opp | All-Play | AP % | PF | PA |
 |---|------|---------|---:|:---:|:---:|:---:|---:|---:|---:|
@@ -12,7 +12,7 @@ Through **Week 4** · updated 2026-10-06 15:52 UTC
 | 6 | Thunder Lips  | Thunder_Lips | 34 | 2-2 | 22-18 | 24-20 | 0.545 | 488.46 | 483.46 |
 | 7 | Honeydewshuffle | Honeydewshuffle7 | 29 | 2-2 | 17-23 | 19-25 | 0.432 | 487.08 | 538.42 |
 | 8 | Mdots | Mdots | 27 | 1-3 | 21-19 | 22-22 | 0.500 | 539.04 | 526.20 |
-| 9 | MARK THIS TEAM 1ST PLACE | Rickrenova | 27 | 2-2 | 15-25 | 17-27 | 0.386 | 470.92 | 512.52 |
+| 9 | Copperfield | Rickrenova | 27 | 2-2 | 15-25 | 17-27 | 0.386 | 470.92 | 512.52 |
 | 10 | 2 Drakes Sutton Cock  | 2Legit2QuitFantasy | 22 | 1-3 | 16-24 | 17-27 | 0.386 | 464.30 | 552.98 |
 | 11 | TheBurdenOfProof | JimLacko | 17 | 1-3 | 11-29 | 12-32 | 0.273 | 421.20 | 499.92 |
 | 12 | WetDogShit | stanwaffles | 12 | 1-3 | 6-34 | 7-37 | 0.159 | 359.64 | 489.30 |
