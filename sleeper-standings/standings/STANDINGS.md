@@ -1,6 +1,6 @@
 # Legend of Bald — 2026 Custom Standings
 
-Through **Week 5** · updated 2026-10-13 14:48 UTC
+Through **Week 5** · updated 2026-10-14 12:27 UTC
 
 | # | Team | Manager | VP | H2H | Non-Opp | All-Play | AP % | PF | PA |
 |---|------|---------|---:|:---:|:---:|:---:|---:|---:|---:|
