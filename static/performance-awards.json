@@ -7,9 +7,10 @@
   3,
   4,
   5,
-  6
+  6,
+  7
  ],
- "updated": "2026-10-21 12:27 UTC",
+ "updated": "2026-10-27 15:23 UTC",
  "award_types": [
   {
    "key": "money_shot",
@@ -379,7 +380,7 @@
      "detail": "",
      "player": {
       "id": "5872",
-      "name": "Deebo Samuel",
+      "name": "Deebo Samuel Sr.",
       "position": "WR",
       "nfl_team": "SF",
       "image": "https://sleepercdn.com/content/nfl/players/thumb/5872.jpg"
@@ -1784,7 +1785,7 @@
      "detail": "",
      "player": {
       "id": "13276",
-      "name": "Omar Cooper",
+      "name": "Omar Cooper Jr.",
       "position": "WR",
       "nfl_team": "NYJ",
       "image": "https://sleepercdn.com/content/nfl/players/thumb/13276.jpg"
@@ -1824,6 +1825,287 @@
     }
    ],
    "projections_available": true
+  },
+  {
+   "week": 7,
+   "awards": [
+    {
+     "key": "money_shot",
+     "emoji": "\ud83d\udcb0",
+     "title": "The Money Shot",
+     "description": "Highest-scoring starter of the week",
+     "roster_id": 2,
+     "team": "Mdots",
+     "manager": "Mdots",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
+     "value": "38.00 pts",
+     "detail": "",
+     "player": {
+      "id": "5967",
+      "name": "Tony Pollard",
+      "position": "RB",
+      "nfl_team": "TEN",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/5967.jpg"
+     }
+    },
+    {
+     "key": "taco",
+     "emoji": "\ud83c\udf2e",
+     "title": "The Taco",
+     "description": "Lowest team score of the week",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "81.74 pts",
+     "detail": "",
+     "player": null
+    },
+    {
+     "key": "best_manager",
+     "emoji": "\ud83d\udd25",
+     "title": "Best Manager",
+     "description": "Highest share of their best possible lineup",
+     "roster_id": 5,
+     "team": "WetDogShit",
+     "manager": "stanwaffles",
+     "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
+     "value": "100.0%",
+     "detail": "81.92 of a possible 81.92",
+     "player": null
+    },
+    {
+     "key": "worst_manager",
+     "emoji": "\ud83e\udd14",
+     "title": "Worst Manager",
+     "description": "Lowest share of their best possible lineup",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "73.7%",
+     "detail": "81.74 of a possible 110.98",
+     "player": null
+    },
+    {
+     "key": "blowout",
+     "emoji": "\ud83d\ude02",
+     "title": "Biggest Blowout",
+     "description": "Largest margin of victory",
+     "roster_id": 9,
+     "team": "Honeydewshuffle",
+     "manager": "Honeydewshuffle7",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
+     "value": "+71.18",
+     "detail": "Beat Thunder Lips  163.08 to 91.90",
+     "player": null
+    },
+    {
+     "key": "narrow",
+     "emoji": "\ud83d\ude31",
+     "title": "Narrow Victory",
+     "description": "Smallest margin of victory",
+     "roster_id": 8,
+     "team": "Give Lamar his Flowers",
+     "manager": "Bernie55",
+     "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
+     "value": "+1.96",
+     "detail": "Beat Mdots 150.88 to 148.92",
+     "player": null
+    },
+    {
+     "key": "overachiever",
+     "emoji": "\ud83e\udd13",
+     "title": "Overachiever",
+     "description": "Beat their projection by the most",
+     "roster_id": 10,
+     "team": "TheBurdenOfProof",
+     "manager": "JimLacko",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
+     "value": "+46.15",
+     "detail": "Scored 143.88, projected 97.73",
+     "player": null
+    },
+    {
+     "key": "below",
+     "emoji": "\ud83d\udc80",
+     "title": "Below Expectation",
+     "description": "Fell furthest short of their projection",
+     "roster_id": 6,
+     "team": "WATSON your ass",
+     "manager": "aboevan28",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+     "value": "-38.93",
+     "detail": "Scored 81.74, projected 120.67",
+     "player": null
+    },
+    {
+     "key": "best_qb",
+     "emoji": "\u2b50",
+     "title": "Best QB",
+     "description": "Top-scoring starting QB",
+     "roster_id": 1,
+     "team": "The 2nd WCE",
+     "manager": "luis",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
+     "value": "36.88 pts",
+     "detail": "",
+     "player": {
+      "id": "6770",
+      "name": "Joe Burrow",
+      "position": "QB",
+      "nfl_team": "CIN",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/6770.jpg"
+     }
+    },
+    {
+     "key": "best_rb",
+     "emoji": "\u2b50",
+     "title": "Best RB",
+     "description": "Top-scoring starting RB",
+     "roster_id": 2,
+     "team": "Mdots",
+     "manager": "Mdots",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
+     "value": "38.00 pts",
+     "detail": "",
+     "player": {
+      "id": "5967",
+      "name": "Tony Pollard",
+      "position": "RB",
+      "nfl_team": "TEN",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/5967.jpg"
+     }
+    },
+    {
+     "key": "best_wr",
+     "emoji": "\u2b50",
+     "title": "Best WR",
+     "description": "Top-scoring starting WR",
+     "roster_id": 11,
+     "team": "2 Drakes Sutton Cock ",
+     "manager": "2Legit2QuitFantasy",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+     "value": "32.80 pts",
+     "detail": "",
+     "player": {
+      "id": "9488",
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "nfl_team": "SEA",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/9488.jpg"
+     }
+    },
+    {
+     "key": "best_te",
+     "emoji": "\u2b50",
+     "title": "Best TE",
+     "description": "Top-scoring starting TE",
+     "roster_id": 4,
+     "team": "Kershaw",
+     "manager": "MFitz10",
+     "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+     "value": "28.60 pts",
+     "detail": "",
+     "player": {
+      "id": "8130",
+      "name": "Trey McBride",
+      "position": "TE",
+      "nfl_team": "ARI",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/8130.jpg"
+     }
+    },
+    {
+     "key": "bench_qb",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer QB",
+     "description": "Top-scoring benched QB",
+     "roster_id": 3,
+     "team": "Copperfield",
+     "manager": "Rickrenova",
+     "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
+     "value": "25.02 pts",
+     "detail": "",
+     "player": {
+      "id": "3163",
+      "name": "Jared Goff",
+      "position": "QB",
+      "nfl_team": "DET",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/3163.jpg"
+     }
+    },
+    {
+     "key": "bench_rb",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer RB",
+     "description": "Top-scoring benched RB",
+     "roster_id": 8,
+     "team": "Give Lamar his Flowers",
+     "manager": "Bernie55",
+     "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
+     "value": "20.60 pts",
+     "detail": "",
+     "player": {
+      "id": "12481",
+      "name": "Cam Skattebo",
+      "position": "RB",
+      "nfl_team": "NYG",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/12481.jpg"
+     }
+    },
+    {
+     "key": "bench_wr",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer WR",
+     "description": "Top-scoring benched WR",
+     "roster_id": 7,
+     "team": "junejune",
+     "manager": "junejune",
+     "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
+     "value": "21.00 pts",
+     "detail": "",
+     "player": {
+      "id": "13296",
+      "name": "Caleb Douglas",
+      "position": "WR",
+      "nfl_team": "MIA",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/13296.jpg"
+     }
+    },
+    {
+     "key": "bench_te",
+     "emoji": "\ud83d\udc40",
+     "title": "Benchwarmer TE",
+     "description": "Top-scoring benched TE",
+     "roster_id": 3,
+     "team": "Copperfield",
+     "manager": "Rickrenova",
+     "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
+     "value": "13.50 pts",
+     "detail": "",
+     "player": {
+      "id": "5844",
+      "name": "T.J. Hockenson",
+      "position": "TE",
+      "nfl_team": "MIN",
+      "image": "https://sleepercdn.com/content/nfl/players/thumb/5844.jpg"
+     }
+    },
+    {
+     "key": "bench_points",
+     "emoji": "\ud83c\udf46",
+     "title": "The Ron Jeremy Performance Award",
+     "description": "Most points left on the bench",
+     "roster_id": 4,
+     "team": "Kershaw",
+     "manager": "MFitz10",
+     "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+     "value": "59.56 pts on the bench",
+     "detail": "",
+     "player": null
+    }
+   ],
+   "projections_available": true
   }
  ],
  "tallies": [
@@ -1832,16 +2114,16 @@
    "team": "Copperfield",
    "manager": "Rickrenova",
    "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
-   "total": 14,
+   "total": 16,
    "counts": {
     "worst_manager": 2,
     "narrow": 1,
-    "bench_qb": 1,
+    "bench_qb": 2,
     "taco": 3,
     "below": 3,
     "overachiever": 1,
     "best_te": 1,
-    "bench_te": 1,
+    "bench_te": 2,
     "bench_points": 1
    }
   },
@@ -1850,7 +2132,7 @@
    "team": "junejune",
    "manager": "junejune",
    "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
-   "total": 12,
+   "total": 13,
    "counts": {
     "money_shot": 2,
     "best_qb": 2,
@@ -1858,7 +2140,26 @@
     "bench_points": 1,
     "best_manager": 2,
     "best_rb": 2,
-    "blowout": 2
+    "blowout": 2,
+    "bench_wr": 1
+   }
+  },
+  {
+   "roster_id": 6,
+   "team": "WATSON your ass",
+   "manager": "aboevan28",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
+   "total": 12,
+   "counts": {
+    "best_manager": 2,
+    "blowout": 1,
+    "overachiever": 1,
+    "best_wr": 1,
+    "bench_rb": 1,
+    "best_qb": 1,
+    "taco": 2,
+    "below": 2,
+    "worst_manager": 1
    }
   },
   {
@@ -1866,10 +2167,10 @@
    "team": "2 Drakes Sutton Cock ",
    "manager": "2Legit2QuitFantasy",
    "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
-   "total": 10,
+   "total": 11,
    "counts": {
     "bench_wr": 2,
-    "best_wr": 2,
+    "best_wr": 3,
     "blowout": 1,
     "bench_qb": 2,
     "money_shot": 1,
@@ -1882,14 +2183,30 @@
    "team": "The 2nd WCE",
    "manager": "luis",
    "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
-   "total": 9,
+   "total": 10,
    "counts": {
     "narrow": 2,
     "bench_rb": 3,
     "overachiever": 1,
-    "best_qb": 1,
+    "best_qb": 2,
     "bench_qb": 1,
     "bench_wr": 1
+   }
+  },
+  {
+   "roster_id": 4,
+   "team": "Kershaw",
+   "manager": "MFitz10",
+   "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+   "total": 10,
+   "counts": {
+    "worst_manager": 1,
+    "best_te": 4,
+    "bench_te": 1,
+    "blowout": 1,
+    "money_shot": 1,
+    "best_wr": 1,
+    "bench_points": 1
    }
   },
   {
@@ -1897,7 +2214,7 @@
    "team": "WetDogShit",
    "manager": "stanwaffles",
    "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
-   "total": 9,
+   "total": 10,
    "counts": {
     "best_rb": 1,
     "taco": 1,
@@ -1906,39 +2223,8 @@
     "bench_wr": 1,
     "bench_te": 1,
     "bench_points": 1,
-    "blowout": 1
-   }
-  },
-  {
-   "roster_id": 6,
-   "team": "WATSON your ass",
-   "manager": "aboevan28",
-   "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
-   "total": 9,
-   "counts": {
-    "best_manager": 2,
     "blowout": 1,
-    "overachiever": 1,
-    "best_wr": 1,
-    "bench_rb": 1,
-    "best_qb": 1,
-    "taco": 1,
-    "below": 1
-   }
-  },
-  {
-   "roster_id": 4,
-   "team": "Kershaw",
-   "manager": "MFitz10",
-   "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
-   "total": 8,
-   "counts": {
-    "worst_manager": 1,
-    "best_te": 3,
-    "bench_te": 1,
-    "blowout": 1,
-    "money_shot": 1,
-    "best_wr": 1
+    "best_manager": 1
    }
   },
   {
@@ -1946,7 +2232,7 @@
    "team": "Honeydewshuffle",
    "manager": "Honeydewshuffle7",
    "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
-   "total": 8,
+   "total": 9,
    "counts": {
     "best_te": 1,
     "bench_te": 1,
@@ -1954,7 +2240,8 @@
     "bench_rb": 1,
     "money_shot": 1,
     "best_qb": 1,
-    "bench_wr": 1
+    "bench_wr": 1,
+    "blowout": 1
    }
   },
   {
@@ -1962,7 +2249,7 @@
    "team": "TheBurdenOfProof",
    "manager": "JimLacko",
    "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
-   "total": 8,
+   "total": 9,
    "counts": {
     "taco": 1,
     "below": 1,
@@ -1970,7 +2257,7 @@
     "bench_qb": 1,
     "narrow": 1,
     "best_manager": 1,
-    "overachiever": 1,
+    "overachiever": 2,
     "best_wr": 1
    }
   },
@@ -1979,13 +2266,15 @@
    "team": "Mdots",
    "manager": "Mdots",
    "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
-   "total": 5,
+   "total": 7,
    "counts": {
     "overachiever": 1,
     "best_te": 1,
     "bench_te": 1,
     "bench_points": 1,
-    "best_wr": 1
+    "best_wr": 1,
+    "money_shot": 1,
+    "best_rb": 1
    }
   },
   {
@@ -1993,12 +2282,14 @@
    "team": "Give Lamar his Flowers",
    "manager": "Bernie55",
    "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
-   "total": 5,
+   "total": 7,
    "counts": {
     "money_shot": 1,
     "best_rb": 2,
     "bench_wr": 1,
-    "bench_te": 1
+    "bench_te": 1,
+    "narrow": 1,
+    "bench_rb": 1
    }
   },
   {
