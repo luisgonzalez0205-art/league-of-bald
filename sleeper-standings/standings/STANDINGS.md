@@ -1,21 +1,21 @@
 # Legend of Bald — 2026 Custom Standings
 
-Through **Week 7** · updated 2026-10-28 12:36 UTC
+Through **Week 8** · updated 2026-11-04 16:31 UTC
 
 | # | Team | Manager | VP | H2H | Non-Opp | All-Play | AP % | PF | PA |
 |---|------|---------|---:|:---:|:---:|:---:|---:|---:|---:|
-| 1 | junejune | junejune | 90 | 6-1 | 54-16 | 60-17 | 0.779 | 1079.18 | 784.10 |
-| 2 | Kershaw | MFitz10 | 68 | 4-3 | 44-26 | 48-29 | 0.623 | 964.28 | 984.20 |
-| 3 | Give Lamar his Flowers | Bernie55 | 66 | 4-3 | 42-28 | 46-31 | 0.597 | 929.70 | 814.12 |
-| 4 | Honeydewshuffle | Honeydewshuffle7 | 65 | 4-3 | 41-29 | 45-32 | 0.584 | 902.94 | 896.78 |
-| 5 | The 2nd WCE | luis | 65 | 5-2 | 35-35 | 40-37 | 0.519 | 875.72 | 808.24 |
-| 6 | 2 Drakes Sutton Cock  | 2Legit2QuitFantasy | 62 | 3-4 | 44-26 | 47-30 | 0.610 | 921.90 | 967.94 |
-| 7 | WATSON your ass | aboevan28 | 54 | 3-4 | 36-34 | 39-38 | 0.506 | 870.54 | 923.40 |
-| 8 | TheBurdenOfProof | JimLacko | 53 | 4-3 | 29-41 | 33-44 | 0.429 | 868.24 | 808.22 |
-| 9 | Thunder Lips  | Thunder_Lips | 49 | 3-4 | 31-39 | 34-43 | 0.442 | 787.20 | 883.80 |
-| 10 | Mdots | Mdots | 42 | 1-6 | 36-34 | 37-40 | 0.480 | 916.28 | 957.00 |
-| 11 | Copperfield | Rickrenova | 37 | 3-4 | 19-51 | 22-55 | 0.286 | 735.08 | 852.08 |
-| 12 | WetDogShit | stanwaffles | 21 | 2-5 | 9-61 | 11-66 | 0.143 | 648.68 | 819.86 |
+| 1 | junejune | junejune | 103 | 7-1 | 61-19 | 68-20 | 0.773 | 1220.54 | 878.38 |
+| 2 | The 2nd WCE | luis | 81 | 6-2 | 45-35 | 51-37 | 0.580 | 1083.90 | 909.52 |
+| 3 | Give Lamar his Flowers | Bernie55 | 80 | 5-3 | 50-30 | 55-33 | 0.625 | 1094.00 | 906.10 |
+| 4 | 2 Drakes Sutton Cock  | 2Legit2QuitFantasy | 71 | 4-4 | 47-33 | 51-37 | 0.580 | 1031.26 | 1070.90 |
+| 5 | Honeydewshuffle | Honeydewshuffle7 | 70 | 4-4 | 46-34 | 50-38 | 0.568 | 1013.74 | 1024.18 |
+| 6 | Kershaw | MFitz10 | 69 | 4-4 | 45-35 | 49-39 | 0.557 | 1058.56 | 1125.56 |
+| 7 | TheBurdenOfProof | JimLacko | 65 | 5-3 | 35-45 | 40-48 | 0.455 | 995.64 | 919.02 |
+| 8 | Mdots | Mdots | 57 | 2-6 | 45-35 | 47-41 | 0.534 | 1082.42 | 1068.18 |
+| 9 | WATSON your ass | aboevan28 | 57 | 3-5 | 39-41 | 42-46 | 0.477 | 973.50 | 1032.76 |
+| 10 | Thunder Lips  | Thunder_Lips | 49 | 3-5 | 31-49 | 34-54 | 0.386 | 879.18 | 1048.10 |
+| 11 | Copperfield | Rickrenova | 43 | 3-5 | 25-55 | 28-60 | 0.318 | 846.26 | 1018.22 |
+| 12 | WetDogShit | stanwaffles | 23 | 2-6 | 11-69 | 13-75 | 0.148 | 749.96 | 1028.04 |
 
 ## Scoring rules
 

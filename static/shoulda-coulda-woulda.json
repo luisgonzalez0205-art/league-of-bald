@@ -8,9 +8,10 @@
   4,
   5,
   6,
-  7
+  7,
+  8
  ],
- "updated": "2026-10-28 12:36 UTC",
+ "updated": "2026-11-04 16:31 UTC",
  "teams": [
   {
    "roster_id": 7,
@@ -25,22 +26,10 @@
    "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044"
   },
   {
-   "roster_id": 4,
-   "team": "Kershaw",
-   "manager": "MFitz10",
-   "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg"
-  },
-  {
    "roster_id": 8,
    "team": "Give Lamar his Flowers",
    "manager": "Bernie55",
    "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg"
-  },
-  {
-   "roster_id": 9,
-   "team": "Honeydewshuffle",
-   "manager": "Honeydewshuffle7",
-   "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77"
   },
   {
    "roster_id": 10,
@@ -49,10 +38,22 @@
    "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab"
   },
   {
+   "roster_id": 4,
+   "team": "Kershaw",
+   "manager": "MFitz10",
+   "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg"
+  },
+  {
    "roster_id": 11,
    "team": "2 Drakes Sutton Cock ",
    "manager": "2Legit2QuitFantasy",
    "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909"
+  },
+  {
+   "roster_id": 9,
+   "team": "Honeydewshuffle",
+   "manager": "Honeydewshuffle7",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77"
   },
   {
    "roster_id": 6,
@@ -73,16 +74,16 @@
    "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg"
   },
   {
-   "roster_id": 5,
-   "team": "WetDogShit",
-   "manager": "stanwaffles",
-   "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg"
-  },
-  {
    "roster_id": 2,
    "team": "Mdots",
    "manager": "Mdots",
    "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi"
+  },
+  {
+   "roster_id": 5,
+   "team": "WetDogShit",
+   "manager": "stanwaffles",
+   "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg"
   }
  ],
  "matrix": [
@@ -91,74 +92,74 @@
    "cells": [
     {
      "schedule_of": 7,
-     "w": 6,
+     "w": 7,
      "l": 1,
      "t": 0
     },
     {
      "schedule_of": 1,
-     "w": 5,
+     "w": 6,
      "l": 2,
      "t": 0
     },
     {
-     "schedule_of": 4,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
      "schedule_of": 8,
-     "w": 6,
-     "l": 1,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 6,
+     "w": 7,
      "l": 1,
      "t": 0
     },
     {
      "schedule_of": 10,
-     "w": 7,
+     "w": 8,
      "l": 0,
      "t": 0
     },
     {
+     "schedule_of": 4,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
      "schedule_of": 11,
-     "w": 6,
+     "w": 7,
+     "l": 1,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 7,
      "l": 1,
      "t": 0
     },
     {
      "schedule_of": 6,
-     "w": 5,
+     "w": 6,
      "l": 2,
      "t": 0
     },
     {
      "schedule_of": 12,
      "w": 6,
-     "l": 1,
+     "l": 2,
      "t": 0
     },
     {
      "schedule_of": 3,
      "w": 5,
-     "l": 2,
+     "l": 3,
+     "t": 0
+    },
+    {
+     "schedule_of": 2,
+     "w": 7,
+     "l": 1,
      "t": 0
     },
     {
      "schedule_of": 5,
      "w": 5,
-     "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 2,
-     "w": 6,
-     "l": 1,
+     "l": 3,
      "t": 0
     }
    ]
@@ -168,151 +169,74 @@
    "cells": [
     {
      "schedule_of": 7,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 1,
-     "w": 5,
+     "w": 6,
+     "l": 2,
+     "t": 0
+    },
+    {
+     "schedule_of": 8,
+     "w": 6,
+     "l": 2,
+     "t": 0
+    },
+    {
+     "schedule_of": 10,
+     "w": 6,
      "l": 2,
      "t": 0
     },
     {
      "schedule_of": 4,
-     "w": 3,
+     "w": 4,
      "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 8,
-     "w": 5,
-     "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 10,
-     "w": 5,
-     "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 11,
-     "w": 2,
-     "l": 5,
-     "t": 0
-    },
-    {
-     "schedule_of": 6,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 12,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 3,
-     "w": 5,
-     "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 5,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 2,
-     "w": 2,
-     "l": 5,
-     "t": 0
-    }
-   ]
-  },
-  {
-   "roster_id": 4,
-   "cells": [
-    {
-     "schedule_of": 7,
-     "w": 6,
-     "l": 1,
-     "t": 0
-    },
-    {
-     "schedule_of": 1,
-     "w": 6,
-     "l": 1,
-     "t": 0
-    },
-    {
-     "schedule_of": 4,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 8,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 10,
-     "w": 5,
-     "l": 2,
      "t": 0
     },
     {
      "schedule_of": 11,
      "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 6,
-     "w": 2,
-     "l": 5,
+     "w": 4,
+     "l": 4,
      "t": 0
     },
     {
      "schedule_of": 12,
-     "w": 6,
-     "l": 1,
+     "w": 5,
+     "l": 3,
      "t": 0
     },
     {
      "schedule_of": 3,
      "w": 6,
-     "l": 1,
-     "t": 0
-    },
-    {
-     "schedule_of": 5,
-     "w": 4,
-     "l": 3,
+     "l": 2,
      "t": 0
     },
     {
      "schedule_of": 2,
-     "w": 2,
+     "w": 3,
      "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 5,
+     "w": 5,
+     "l": 3,
      "t": 0
     }
    ]
@@ -322,150 +246,73 @@
    "cells": [
     {
      "schedule_of": 7,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 1,
-     "w": 5,
+     "w": 6,
      "l": 2,
      "t": 0
     },
     {
-     "schedule_of": 4,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
      "schedule_of": 8,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 10,
-     "w": 5,
+     "w": 6,
      "l": 2,
      "t": 0
     },
     {
+     "schedule_of": 4,
+     "w": 5,
+     "l": 3,
+     "t": 0
+    },
+    {
      "schedule_of": 11,
-     "w": 4,
+     "w": 5,
+     "l": 3,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 6,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 12,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 3,
      "w": 5,
-     "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 5,
-     "w": 4,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 2,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
-    }
-   ]
-  },
-  {
-   "roster_id": 9,
-   "cells": [
-    {
-     "schedule_of": 7,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 1,
-     "w": 5,
-     "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 4,
-     "w": 2,
-     "l": 5,
-     "t": 0
-    },
-    {
-     "schedule_of": 8,
-     "w": 6,
-     "l": 1,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 10,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 11,
-     "w": 2,
-     "l": 5,
-     "t": 0
-    },
-    {
-     "schedule_of": 6,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 12,
-     "w": 6,
-     "l": 1,
-     "t": 0
-    },
-    {
-     "schedule_of": 3,
-     "w": 4,
-     "l": 3,
-     "t": 0
     },
     {
      "schedule_of": 5,
-     "w": 5,
-     "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 2,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     }
@@ -476,74 +323,151 @@
    "cells": [
     {
      "schedule_of": 7,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 1,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 4,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 8,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 10,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
-     "schedule_of": 11,
+     "schedule_of": 4,
      "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 11,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 6,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 12,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 0
     },
     {
      "schedule_of": 3,
      "w": 4,
-     "l": 3,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 2,
+     "w": 3,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 5,
      "w": 2,
+     "l": 6,
+     "t": 0
+    }
+   ]
+  },
+  {
+   "roster_id": 4,
+   "cells": [
+    {
+     "schedule_of": 7,
+     "w": 6,
+     "l": 2,
+     "t": 0
+    },
+    {
+     "schedule_of": 1,
+     "w": 6,
+     "l": 2,
+     "t": 0
+    },
+    {
+     "schedule_of": 8,
+     "w": 5,
+     "l": 3,
+     "t": 0
+    },
+    {
+     "schedule_of": 10,
+     "w": 5,
+     "l": 3,
+     "t": 0
+    },
+    {
+     "schedule_of": 4,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 11,
+     "w": 3,
      "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 6,
+     "w": 2,
+     "l": 6,
+     "t": 0
+    },
+    {
+     "schedule_of": 12,
+     "w": 6,
+     "l": 2,
+     "t": 0
+    },
+    {
+     "schedule_of": 3,
+     "w": 6,
+     "l": 2,
      "t": 0
     },
     {
      "schedule_of": 2,
      "w": 2,
-     "l": 5,
+     "l": 6,
+     "t": 0
+    },
+    {
+     "schedule_of": 5,
+     "w": 4,
+     "l": 4,
      "t": 0
     }
    ]
@@ -553,73 +477,150 @@
    "cells": [
     {
      "schedule_of": 7,
-     "w": 5,
+     "w": 6,
      "l": 2,
      "t": 0
     },
     {
      "schedule_of": 1,
-     "w": 5,
+     "w": 6,
      "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 4,
-     "w": 4,
-     "l": 3,
      "t": 0
     },
     {
      "schedule_of": 8,
-     "w": 5,
+     "w": 6,
      "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 4,
-     "l": 3,
      "t": 0
     },
     {
      "schedule_of": 10,
      "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 4,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 11,
-     "w": 3,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 6,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 12,
      "w": 3,
-     "l": 4,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 3,
      "w": 5,
-     "l": 2,
-     "t": 0
-    },
-    {
-     "schedule_of": 5,
-     "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 0
     },
     {
      "schedule_of": 2,
      "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 5,
+     "w": 5,
+     "l": 3,
+     "t": 0
+    }
+   ]
+  },
+  {
+   "roster_id": 9,
+   "cells": [
+    {
+     "schedule_of": 7,
+     "w": 5,
+     "l": 3,
+     "t": 0
+    },
+    {
+     "schedule_of": 1,
+     "w": 6,
+     "l": 2,
+     "t": 0
+    },
+    {
+     "schedule_of": 8,
+     "w": 7,
+     "l": 1,
+     "t": 0
+    },
+    {
+     "schedule_of": 10,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 4,
+     "w": 2,
+     "l": 6,
+     "t": 0
+    },
+    {
+     "schedule_of": 11,
+     "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 6,
+     "w": 5,
+     "l": 3,
+     "t": 0
+    },
+    {
+     "schedule_of": 12,
+     "w": 6,
+     "l": 2,
+     "t": 0
+    },
+    {
+     "schedule_of": 3,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 2,
+     "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 5,
+     "w": 5,
      "l": 3,
      "t": 0
     }
@@ -630,74 +631,74 @@
    "cells": [
     {
      "schedule_of": 7,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 1,
-     "w": 4,
+     "w": 5,
      "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 4,
-     "w": 3,
-     "l": 4,
      "t": 0
     },
     {
      "schedule_of": 8,
-     "w": 4,
+     "w": 5,
      "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 3,
-     "l": 4,
      "t": 0
     },
     {
      "schedule_of": 10,
      "w": 3,
-     "l": 4,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 4,
+     "w": 3,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 11,
      "w": 3,
-     "l": 4,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 3,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 6,
      "w": 3,
-     "l": 4,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 12,
      "w": 3,
-     "l": 4,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 3,
      "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 5,
-     "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 0
     },
     {
      "schedule_of": 2,
      "w": 4,
-     "l": 3,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 5,
+     "w": 4,
+     "l": 4,
      "t": 0
     }
    ]
@@ -708,72 +709,72 @@
     {
      "schedule_of": 7,
      "w": 3,
-     "l": 4,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 1,
      "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 4,
-     "w": 3,
-     "l": 4,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 8,
      "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 3,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 10,
      "w": 3,
-     "l": 4,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 4,
+     "w": 3,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 11,
      "w": 3,
-     "l": 4,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 3,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 6,
      "w": 2,
-     "l": 5,
+     "l": 6,
      "t": 0
     },
     {
      "schedule_of": 12,
      "w": 3,
-     "l": 4,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 3,
      "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 5,
-     "w": 4,
-     "l": 3,
+     "l": 5,
      "t": 0
     },
     {
      "schedule_of": 2,
      "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 5,
+     "w": 4,
      "l": 4,
      "t": 0
     }
@@ -784,150 +785,73 @@
    "cells": [
     {
      "schedule_of": 7,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 1,
-     "w": 2,
+     "w": 3,
      "l": 5,
      "t": 0
     },
     {
-     "schedule_of": 4,
-     "w": 1,
-     "l": 6,
-     "t": 0
-    },
-    {
      "schedule_of": 8,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 10,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
-     "schedule_of": 11,
+     "schedule_of": 4,
      "w": 1,
+     "l": 7,
+     "t": 0
+    },
+    {
+     "schedule_of": 11,
+     "w": 2,
      "l": 6,
      "t": 0
     },
     {
+     "schedule_of": 9,
+     "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
      "schedule_of": 6,
-     "w": 2,
+     "w": 3,
      "l": 5,
      "t": 0
     },
     {
      "schedule_of": 12,
      "w": 2,
-     "l": 5,
-     "t": 0
-    },
-    {
-     "schedule_of": 3,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 5,
-     "w": 1,
-     "l": 6,
-     "t": 0
-    },
-    {
-     "schedule_of": 2,
-     "w": 1,
-     "l": 6,
-     "t": 0
-    }
-   ]
-  },
-  {
-   "roster_id": 5,
-   "cells": [
-    {
-     "schedule_of": 7,
-     "w": 2,
-     "l": 5,
-     "t": 0
-    },
-    {
-     "schedule_of": 1,
-     "w": 1,
-     "l": 6,
-     "t": 0
-    },
-    {
-     "schedule_of": 4,
-     "w": 0,
-     "l": 7,
-     "t": 0
-    },
-    {
-     "schedule_of": 8,
-     "w": 2,
-     "l": 5,
-     "t": 0
-    },
-    {
-     "schedule_of": 9,
-     "w": 0,
-     "l": 7,
-     "t": 0
-    },
-    {
-     "schedule_of": 10,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
-     "schedule_of": 11,
-     "w": 1,
-     "l": 6,
-     "t": 0
-    },
-    {
-     "schedule_of": 6,
-     "w": 0,
-     "l": 7,
-     "t": 0
-    },
-    {
-     "schedule_of": 12,
-     "w": 1,
      "l": 6,
      "t": 0
     },
     {
      "schedule_of": 3,
-     "w": 1,
-     "l": 6,
-     "t": 0
-    },
-    {
-     "schedule_of": 5,
-     "w": 2,
+     "w": 3,
      "l": 5,
      "t": 0
     },
     {
      "schedule_of": 2,
-     "w": 0,
+     "w": 1,
+     "l": 7,
+     "t": 0
+    },
+    {
+     "schedule_of": 5,
+     "w": 1,
      "l": 7,
      "t": 0
     }
@@ -938,73 +862,150 @@
    "cells": [
     {
      "schedule_of": 7,
-     "w": 4,
+     "w": 5,
      "l": 3,
      "t": 0
     },
     {
      "schedule_of": 1,
-     "w": 5,
+     "w": 6,
      "l": 2,
      "t": 0
     },
     {
-     "schedule_of": 4,
-     "w": 3,
+     "schedule_of": 8,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
-     "schedule_of": 8,
-     "w": 3,
+     "schedule_of": 10,
+     "w": 5,
+     "l": 3,
+     "t": 0
+    },
+    {
+     "schedule_of": 4,
+     "w": 4,
+     "l": 4,
+     "t": 0
+    },
+    {
+     "schedule_of": 11,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 9,
-     "w": 2,
+     "w": 3,
      "l": 5,
      "t": 0
     },
     {
-     "schedule_of": 10,
-     "w": 4,
-     "l": 3,
-     "t": 0
-    },
-    {
-     "schedule_of": 11,
-     "w": 3,
-     "l": 4,
-     "t": 0
-    },
-    {
      "schedule_of": 6,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 12,
-     "w": 3,
+     "w": 4,
      "l": 4,
      "t": 0
     },
     {
      "schedule_of": 3,
-     "w": 4,
+     "w": 5,
      "l": 3,
+     "t": 0
+    },
+    {
+     "schedule_of": 2,
+     "w": 2,
+     "l": 6,
      "t": 0
     },
     {
      "schedule_of": 5,
      "w": 3,
-     "l": 4,
+     "l": 5,
+     "t": 0
+    }
+   ]
+  },
+  {
+   "roster_id": 5,
+   "cells": [
+    {
+     "schedule_of": 7,
+     "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 1,
+     "w": 1,
+     "l": 7,
+     "t": 0
+    },
+    {
+     "schedule_of": 8,
+     "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 10,
+     "w": 3,
+     "l": 5,
+     "t": 0
+    },
+    {
+     "schedule_of": 4,
+     "w": 0,
+     "l": 8,
+     "t": 0
+    },
+    {
+     "schedule_of": 11,
+     "w": 1,
+     "l": 7,
+     "t": 0
+    },
+    {
+     "schedule_of": 9,
+     "w": 0,
+     "l": 8,
+     "t": 0
+    },
+    {
+     "schedule_of": 6,
+     "w": 0,
+     "l": 8,
+     "t": 0
+    },
+    {
+     "schedule_of": 12,
+     "w": 1,
+     "l": 7,
+     "t": 0
+    },
+    {
+     "schedule_of": 3,
+     "w": 1,
+     "l": 7,
      "t": 0
     },
     {
      "schedule_of": 2,
-     "w": 1,
+     "w": 0,
+     "l": 8,
+     "t": 0
+    },
+    {
+     "schedule_of": 5,
+     "w": 2,
      "l": 6,
      "t": 0
     }
@@ -1018,28 +1019,28 @@
    "manager": "junejune",
    "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
    "actual": {
-    "w": 6,
+    "w": 7,
     "l": 1,
     "t": 0
    },
-   "expected_wins": 5.45,
-   "luck": 0.55,
+   "expected_wins": 6.18,
+   "luck": 0.82,
    "best_schedule": {
     "roster_id": 10,
     "team": "TheBurdenOfProof",
-    "w": 7,
+    "w": 8,
     "l": 0,
     "t": 0
    },
    "worst_schedule": {
     "roster_id": 4,
     "team": "Kershaw",
-    "w": 3,
+    "w": 4,
     "l": 4,
     "t": 0
    },
-   "opp_avg_points": 112.01,
-   "points_for": 1079.18,
+   "opp_avg_points": 109.8,
+   "points_for": 1220.54,
    "sos_rank": 12
   },
   {
@@ -1048,29 +1049,89 @@
    "manager": "luis",
    "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
    "actual": {
-    "w": 5,
+    "w": 6,
     "l": 2,
     "t": 0
    },
-   "expected_wins": 3.64,
+   "expected_wins": 4.64,
    "luck": 1.36,
    "best_schedule": {
     "roster_id": 3,
     "team": "Copperfield",
-    "w": 5,
+    "w": 6,
     "l": 2,
     "t": 0
    },
    "worst_schedule": {
     "roster_id": 2,
     "team": "Mdots",
-    "w": 2,
+    "w": 3,
     "l": 5,
     "t": 0
    },
-   "opp_avg_points": 115.46,
-   "points_for": 875.72,
+   "opp_avg_points": 113.69,
+   "points_for": 1083.9,
    "sos_rank": 10
+  },
+  {
+   "roster_id": 8,
+   "team": "Give Lamar his Flowers",
+   "manager": "Bernie55",
+   "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
+   "actual": {
+    "w": 5,
+    "l": 3,
+    "t": 0
+   },
+   "expected_wins": 5.0,
+   "luck": 0.0,
+   "best_schedule": {
+    "roster_id": 1,
+    "team": "The 2nd WCE",
+    "w": 6,
+    "l": 2,
+    "t": 0
+   },
+   "worst_schedule": {
+    "roster_id": 2,
+    "team": "Mdots",
+    "w": 4,
+    "l": 4,
+    "t": 0
+   },
+   "opp_avg_points": 113.26,
+   "points_for": 1094.0,
+   "sos_rank": 11
+  },
+  {
+   "roster_id": 10,
+   "team": "TheBurdenOfProof",
+   "manager": "JimLacko",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
+   "actual": {
+    "w": 5,
+    "l": 3,
+    "t": 0
+   },
+   "expected_wins": 3.64,
+   "luck": 1.36,
+   "best_schedule": {
+    "roster_id": 1,
+    "team": "The 2nd WCE",
+    "w": 4,
+    "l": 4,
+    "t": 0
+   },
+   "worst_schedule": {
+    "roster_id": 5,
+    "team": "WetDogShit",
+    "w": 2,
+    "l": 6,
+    "t": 0
+   },
+   "opp_avg_points": 114.88,
+   "points_for": 995.64,
+   "sos_rank": 9
   },
   {
    "roster_id": 4,
@@ -1079,58 +1140,58 @@
    "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
    "actual": {
     "w": 4,
-    "l": 3,
+    "l": 4,
     "t": 0
    },
-   "expected_wins": 4.36,
-   "luck": -0.36,
+   "expected_wins": 4.45,
+   "luck": -0.45,
    "best_schedule": {
     "roster_id": 1,
     "team": "The 2nd WCE",
     "w": 6,
-    "l": 1,
-    "t": 0
-   },
-   "worst_schedule": {
-    "roster_id": 2,
-    "team": "Mdots",
-    "w": 2,
-    "l": 5,
-    "t": 0
-   },
-   "opp_avg_points": 140.6,
-   "points_for": 964.28,
-   "sos_rank": 1
-  },
-  {
-   "roster_id": 8,
-   "team": "Give Lamar his Flowers",
-   "manager": "Bernie55",
-   "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
-   "actual": {
-    "w": 4,
-    "l": 3,
-    "t": 0
-   },
-   "expected_wins": 4.18,
-   "luck": -0.18,
-   "best_schedule": {
-    "roster_id": 1,
-    "team": "The 2nd WCE",
-    "w": 5,
     "l": 2,
     "t": 0
    },
    "worst_schedule": {
     "roster_id": 2,
     "team": "Mdots",
-    "w": 3,
+    "w": 2,
+    "l": 6,
+    "t": 0
+   },
+   "opp_avg_points": 140.69,
+   "points_for": 1058.56,
+   "sos_rank": 1
+  },
+  {
+   "roster_id": 11,
+   "team": "2 Drakes Sutton Cock ",
+   "manager": "2Legit2QuitFantasy",
+   "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+   "actual": {
+    "w": 4,
     "l": 4,
     "t": 0
    },
-   "opp_avg_points": 116.3,
-   "points_for": 929.7,
-   "sos_rank": 9
+   "expected_wins": 4.64,
+   "luck": -0.64,
+   "best_schedule": {
+    "roster_id": 1,
+    "team": "The 2nd WCE",
+    "w": 6,
+    "l": 2,
+    "t": 0
+   },
+   "worst_schedule": {
+    "roster_id": 10,
+    "team": "TheBurdenOfProof",
+    "w": 3,
+    "l": 5,
+    "t": 0
+   },
+   "opp_avg_points": 133.86,
+   "points_for": 1031.26,
+   "sos_rank": 2
   },
   {
    "roster_id": 9,
@@ -1139,15 +1200,15 @@
    "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
    "actual": {
     "w": 4,
-    "l": 3,
+    "l": 4,
     "t": 0
    },
-   "expected_wins": 4.09,
-   "luck": -0.09,
+   "expected_wins": 4.55,
+   "luck": -0.55,
    "best_schedule": {
     "roster_id": 8,
     "team": "Give Lamar his Flowers",
-    "w": 6,
+    "w": 7,
     "l": 1,
     "t": 0
    },
@@ -1155,72 +1216,12 @@
     "roster_id": 4,
     "team": "Kershaw",
     "w": 2,
-    "l": 5,
+    "l": 6,
     "t": 0
    },
-   "opp_avg_points": 128.11,
-   "points_for": 902.94,
-   "sos_rank": 5
-  },
-  {
-   "roster_id": 10,
-   "team": "TheBurdenOfProof",
-   "manager": "JimLacko",
-   "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
-   "actual": {
-    "w": 4,
-    "l": 3,
-    "t": 0
-   },
-   "expected_wins": 3.0,
-   "luck": 1.0,
-   "best_schedule": {
-    "roster_id": 3,
-    "team": "Copperfield",
-    "w": 4,
-    "l": 3,
-    "t": 0
-   },
-   "worst_schedule": {
-    "roster_id": 2,
-    "team": "Mdots",
-    "w": 2,
-    "l": 5,
-    "t": 0
-   },
-   "opp_avg_points": 115.46,
-   "points_for": 868.24,
-   "sos_rank": 11
-  },
-  {
-   "roster_id": 11,
-   "team": "2 Drakes Sutton Cock ",
-   "manager": "2Legit2QuitFantasy",
-   "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
-   "actual": {
-    "w": 3,
-    "l": 4,
-    "t": 0
-   },
-   "expected_wins": 4.27,
-   "luck": -1.27,
-   "best_schedule": {
-    "roster_id": 1,
-    "team": "The 2nd WCE",
-    "w": 5,
-    "l": 2,
-    "t": 0
-   },
-   "worst_schedule": {
-    "roster_id": 10,
-    "team": "TheBurdenOfProof",
-    "w": 3,
-    "l": 4,
-    "t": 0
-   },
-   "opp_avg_points": 138.28,
-   "points_for": 921.9,
-   "sos_rank": 2
+   "opp_avg_points": 128.02,
+   "points_for": 1013.74,
+   "sos_rank": 7
   },
   {
    "roster_id": 6,
@@ -1229,15 +1230,15 @@
    "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
    "actual": {
     "w": 3,
-    "l": 4,
+    "l": 5,
     "t": 0
    },
-   "expected_wins": 3.55,
-   "luck": -0.55,
+   "expected_wins": 3.82,
+   "luck": -0.82,
    "best_schedule": {
     "roster_id": 1,
     "team": "The 2nd WCE",
-    "w": 4,
+    "w": 5,
     "l": 3,
     "t": 0
    },
@@ -1245,12 +1246,12 @@
     "roster_id": 4,
     "team": "Kershaw",
     "w": 3,
-    "l": 4,
+    "l": 5,
     "t": 0
    },
-   "opp_avg_points": 131.91,
-   "points_for": 870.54,
-   "sos_rank": 4
+   "opp_avg_points": 129.09,
+   "points_for": 973.5,
+   "sos_rank": 5
   },
   {
    "roster_id": 12,
@@ -1259,7 +1260,7 @@
    "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
    "actual": {
     "w": 3,
-    "l": 4,
+    "l": 5,
     "t": 0
    },
    "expected_wins": 3.09,
@@ -1268,19 +1269,19 @@
     "roster_id": 5,
     "team": "WetDogShit",
     "w": 4,
-    "l": 3,
+    "l": 4,
     "t": 0
    },
    "worst_schedule": {
     "roster_id": 6,
     "team": "WATSON your ass",
     "w": 2,
-    "l": 5,
+    "l": 6,
     "t": 0
    },
-   "opp_avg_points": 126.26,
-   "points_for": 787.2,
-   "sos_rank": 6
+   "opp_avg_points": 131.01,
+   "points_for": 879.18,
+   "sos_rank": 4
   },
   {
    "roster_id": 3,
@@ -1289,15 +1290,15 @@
    "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
    "actual": {
     "w": 3,
-    "l": 4,
+    "l": 5,
     "t": 0
    },
-   "expected_wins": 2.0,
-   "luck": 1.0,
+   "expected_wins": 2.55,
+   "luck": 0.45,
    "best_schedule": {
     "roster_id": 7,
     "team": "junejune",
-    "w": 3,
+    "w": 4,
     "l": 4,
     "t": 0
    },
@@ -1305,41 +1306,11 @@
     "roster_id": 2,
     "team": "Mdots",
     "w": 1,
-    "l": 6,
-    "t": 0
-   },
-   "opp_avg_points": 121.73,
-   "points_for": 735.08,
-   "sos_rank": 7
-  },
-  {
-   "roster_id": 5,
-   "team": "WetDogShit",
-   "manager": "stanwaffles",
-   "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
-   "actual": {
-    "w": 2,
-    "l": 5,
-    "t": 0
-   },
-   "expected_wins": 1.0,
-   "luck": 1.0,
-   "best_schedule": {
-    "roster_id": 10,
-    "team": "TheBurdenOfProof",
-    "w": 3,
-    "l": 4,
-    "t": 0
-   },
-   "worst_schedule": {
-    "roster_id": 2,
-    "team": "Mdots",
-    "w": 0,
     "l": 7,
     "t": 0
    },
-   "opp_avg_points": 117.12,
-   "points_for": 648.68,
+   "opp_avg_points": 127.28,
+   "points_for": 846.26,
    "sos_rank": 8
   },
   {
@@ -1348,29 +1319,59 @@
    "manager": "Mdots",
    "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
    "actual": {
-    "w": 1,
+    "w": 2,
     "l": 6,
     "t": 0
    },
-   "expected_wins": 3.36,
-   "luck": -2.36,
+   "expected_wins": 4.27,
+   "luck": -2.27,
    "best_schedule": {
     "roster_id": 1,
     "team": "The 2nd WCE",
-    "w": 5,
+    "w": 6,
     "l": 2,
     "t": 0
    },
    "worst_schedule": {
-    "roster_id": 9,
-    "team": "Honeydewshuffle",
-    "w": 2,
+    "roster_id": 5,
+    "team": "WetDogShit",
+    "w": 3,
     "l": 5,
     "t": 0
    },
-   "opp_avg_points": 136.71,
-   "points_for": 916.28,
+   "opp_avg_points": 133.52,
+   "points_for": 1082.42,
    "sos_rank": 3
+  },
+  {
+   "roster_id": 5,
+   "team": "WetDogShit",
+   "manager": "stanwaffles",
+   "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
+   "actual": {
+    "w": 2,
+    "l": 6,
+    "t": 0
+   },
+   "expected_wins": 1.18,
+   "luck": 0.82,
+   "best_schedule": {
+    "roster_id": 7,
+    "team": "junejune",
+    "w": 3,
+    "l": 5,
+    "t": 0
+   },
+   "worst_schedule": {
+    "roster_id": 2,
+    "team": "Mdots",
+    "w": 0,
+    "l": 8,
+    "t": 0
+   },
+   "opp_avg_points": 128.5,
+   "points_for": 749.96,
+   "sos_rank": 6
   }
  ]
 }
