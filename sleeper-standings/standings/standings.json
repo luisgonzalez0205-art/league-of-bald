@@ -11,9 +11,10 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
-  "updated": "2026-11-18 19:59 UTC",
+  "updated": "2026-11-24 15:24 UTC",
   "scoring": {
     "h2h_win": 6.0,
     "h2h_tie": 3.0,
@@ -34,23 +35,23 @@
       "team": "junejune",
       "manager": "junejune",
       "avatar": "https://sleepercdn.com/avatars/thumbs/6f8af62ac9aab14a8e6bfd4149235469",
-      "custom_points": 124.0,
-      "h2h_wins": 8,
+      "custom_points": 139.0,
+      "h2h_wins": 9,
       "h2h_losses": 2,
       "h2h_ties": 0,
-      "median_wins": 9,
+      "median_wins": 10,
       "median_losses": 1,
       "median_ties": 0,
-      "all_play_wins": 84,
-      "all_play_losses": 26,
+      "all_play_wins": 94,
+      "all_play_losses": 27,
       "all_play_ties": 0,
-      "non_opp_wins": 76,
-      "non_opp_losses": 24,
+      "non_opp_wins": 85,
+      "non_opp_losses": 25,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
       "high_scores": 1,
-      "points_for": 1496.54,
-      "points_against": 1105.64,
+      "points_for": 1648.1,
+      "points_against": 1169.52,
       "weekly": [
         {
           "week": 1,
@@ -121,9 +122,16 @@
           "result": "L",
           "median": 131.34,
           "standings_points": 10.0
+        },
+        {
+          "week": 11,
+          "points": 151.56,
+          "result": "W",
+          "median": 117.76,
+          "standings_points": 15.0
         }
       ],
-      "all_play_pct": 0.7636
+      "all_play_pct": 0.7769
     },
     {
       "rank": 2,
@@ -131,23 +139,23 @@
       "team": "The 2nd WCE",
       "manager": "luis",
       "avatar": "https://sleepercdn.com/avatars/thumbs/cc523656571fca27ed243976d06fe044",
-      "custom_points": 112.0,
+      "custom_points": 115.0,
       "h2h_wins": 8,
-      "h2h_losses": 2,
+      "h2h_losses": 3,
       "h2h_ties": 0,
       "median_wins": 6,
-      "median_losses": 4,
+      "median_losses": 5,
       "median_ties": 0,
-      "all_play_wins": 72,
-      "all_play_losses": 38,
+      "all_play_wins": 75,
+      "all_play_losses": 46,
       "all_play_ties": 0,
-      "non_opp_wins": 64,
-      "non_opp_losses": 36,
+      "non_opp_wins": 67,
+      "non_opp_losses": 43,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
       "high_scores": 3,
-      "points_for": 1406.6,
-      "points_against": 1168.92,
+      "points_for": 1510.4,
+      "points_against": 1324.48,
       "weekly": [
         {
           "week": 1,
@@ -218,130 +226,40 @@
           "result": "W",
           "median": 131.34,
           "standings_points": 16.0
+        },
+        {
+          "week": 11,
+          "points": 103.8,
+          "result": "L",
+          "median": 117.76,
+          "standings_points": 3.0
         }
       ],
-      "all_play_pct": 0.6545
+      "all_play_pct": 0.6198
     },
     {
       "rank": 3,
-      "roster_id": 8,
-      "team": "Give Lamar his Flowers",
-      "manager": "Bernie55",
-      "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
-      "custom_points": 93.0,
-      "h2h_wins": 6,
-      "h2h_losses": 4,
-      "h2h_ties": 0,
-      "median_wins": 6,
-      "median_losses": 4,
-      "median_ties": 0,
-      "all_play_wins": 63,
-      "all_play_losses": 47,
-      "all_play_ties": 0,
-      "non_opp_wins": 57,
-      "non_opp_losses": 43,
-      "non_opp_ties": 0,
-      "top_n_finishes": 0,
-      "high_scores": 0,
-      "points_for": 1311.44,
-      "points_against": 1114.12,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 154.86,
-          "result": "W",
-          "median": 122.61,
-          "standings_points": 14.0
-        },
-        {
-          "week": 2,
-          "points": 90.2,
-          "result": "L",
-          "median": 107.26,
-          "standings_points": 1.0
-        },
-        {
-          "week": 3,
-          "points": 152.04,
-          "result": "W",
-          "median": 125.14,
-          "standings_points": 15.0
-        },
-        {
-          "week": 4,
-          "points": 160.28,
-          "result": "W",
-          "median": 132.31,
-          "standings_points": 15.0
-        },
-        {
-          "week": 5,
-          "points": 128.92,
-          "result": "L",
-          "median": 130.86,
-          "standings_points": 5.0
-        },
-        {
-          "week": 6,
-          "points": 92.52,
-          "result": "L",
-          "median": 111.8,
-          "standings_points": 2.0
-        },
-        {
-          "week": 7,
-          "points": 150.88,
-          "result": "W",
-          "median": 137.51,
-          "standings_points": 14.0
-        },
-        {
-          "week": 8,
-          "points": 164.3,
-          "result": "W",
-          "median": 110.99,
-          "standings_points": 14.0
-        },
-        {
-          "week": 9,
-          "points": 83.32,
-          "result": "L",
-          "median": 109.78,
-          "standings_points": 1.0
-        },
-        {
-          "week": 10,
-          "points": 134.12,
-          "result": "W",
-          "median": 131.34,
-          "standings_points": 12.0
-        }
-      ],
-      "all_play_pct": 0.5727
-    },
-    {
-      "rank": 4,
       "roster_id": 10,
       "team": "TheBurdenOfProof",
       "manager": "JimLacko",
       "avatar": "https://sleepercdn.com/avatars/thumbs/1d390dc15f19c55d4e5ec5efc7256eab",
-      "custom_points": 88.0,
-      "h2h_wins": 7,
+      "custom_points": 102.0,
+      "h2h_wins": 8,
       "h2h_losses": 3,
       "h2h_ties": 0,
-      "median_wins": 5,
+      "median_wins": 6,
       "median_losses": 5,
       "median_ties": 0,
-      "all_play_wins": 53,
-      "all_play_losses": 57,
+      "all_play_wins": 62,
+      "all_play_losses": 59,
       "all_play_ties": 0,
-      "non_opp_wins": 46,
-      "non_opp_losses": 54,
+      "non_opp_wins": 54,
+      "non_opp_losses": 56,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
       "high_scores": 1,
-      "points_for": 1255.36,
-      "points_against": 1132.46,
+      "points_for": 1392.16,
+      "points_against": 1268.48,
       "weekly": [
         {
           "week": 1,
@@ -412,130 +330,40 @@
           "result": "W",
           "median": 131.34,
           "standings_points": 13.0
-        }
-      ],
-      "all_play_pct": 0.4818
-    },
-    {
-      "rank": 5,
-      "roster_id": 9,
-      "team": "Honeydewshuffle",
-      "manager": "Honeydewshuffle7",
-      "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
-      "custom_points": 87.0,
-      "h2h_wins": 5,
-      "h2h_losses": 5,
-      "h2h_ties": 0,
-      "median_wins": 5,
-      "median_losses": 5,
-      "median_ties": 0,
-      "all_play_wins": 62,
-      "all_play_losses": 48,
-      "all_play_ties": 0,
-      "non_opp_wins": 57,
-      "non_opp_losses": 43,
-      "non_opp_ties": 0,
-      "top_n_finishes": 0,
-      "high_scores": 1,
-      "points_for": 1279.1,
-      "points_against": 1269.58,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 118.02,
-          "result": "L",
-          "median": 122.61,
-          "standings_points": 5.0
         },
         {
-          "week": 2,
-          "points": 104.66,
-          "result": "L",
-          "median": 107.26,
-          "standings_points": 3.0
-        },
-        {
-          "week": 3,
-          "points": 142.12,
+          "week": 11,
+          "points": 136.8,
           "result": "W",
-          "median": 125.14,
-          "standings_points": 12.0
-        },
-        {
-          "week": 4,
-          "points": 122.28,
-          "result": "W",
-          "median": 132.31,
-          "standings_points": 9.0
-        },
-        {
-          "week": 5,
-          "points": 134.84,
-          "result": "L",
-          "median": 130.86,
-          "standings_points": 7.0
-        },
-        {
-          "week": 6,
-          "points": 117.94,
-          "result": "W",
-          "median": 111.8,
-          "standings_points": 13.0
-        },
-        {
-          "week": 7,
-          "points": 163.08,
-          "result": "W",
-          "median": 137.51,
-          "standings_points": 16.0
-        },
-        {
-          "week": 8,
-          "points": 110.8,
-          "result": "L",
-          "median": 110.99,
-          "standings_points": 5.0
-        },
-        {
-          "week": 9,
-          "points": 146.18,
-          "result": "W",
-          "median": 109.78,
+          "median": 117.76,
           "standings_points": 14.0
-        },
-        {
-          "week": 10,
-          "points": 119.18,
-          "result": "L",
-          "median": 131.34,
-          "standings_points": 3.0
         }
       ],
-      "all_play_pct": 0.5636
+      "all_play_pct": 0.5124
     },
     {
-      "rank": 6,
+      "rank": 4,
       "roster_id": 2,
       "team": "Mdots",
       "manager": "Mdots",
       "avatar": "https://sleepercdn.com/avatars/thumbs/nfl_phi",
-      "custom_points": 84.0,
-      "h2h_wins": 4,
+      "custom_points": 100.0,
+      "h2h_wins": 5,
       "h2h_losses": 6,
       "h2h_ties": 0,
-      "median_wins": 6,
+      "median_wins": 7,
       "median_losses": 4,
       "median_ties": 0,
-      "all_play_wins": 64,
+      "all_play_wins": 75,
       "all_play_losses": 46,
       "all_play_ties": 0,
-      "non_opp_wins": 60,
+      "non_opp_wins": 70,
       "non_opp_losses": 40,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
-      "high_scores": 1,
-      "points_for": 1380.76,
-      "points_against": 1296.7,
+      "high_scores": 2,
+      "points_for": 1536.32,
+      "points_against": 1400.5,
       "weekly": [
         {
           "week": 1,
@@ -606,130 +434,248 @@
           "result": "W",
           "median": 131.34,
           "standings_points": 11.0
+        },
+        {
+          "week": 11,
+          "points": 155.56,
+          "result": "W",
+          "median": 117.76,
+          "standings_points": 16.0
         }
       ],
-      "all_play_pct": 0.5818
+      "all_play_pct": 0.6198
     },
     {
-      "rank": 7,
-      "roster_id": 11,
-      "team": "2 Drakes Sutton Cock ",
-      "manager": "2Legit2QuitFantasy",
-      "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
-      "custom_points": 82.0,
-      "h2h_wins": 5,
+      "rank": 5,
+      "roster_id": 9,
+      "team": "Honeydewshuffle",
+      "manager": "Honeydewshuffle7",
+      "avatar": "https://sleepercdn.com/avatars/thumbs/231432c081e403f0e263b07c31c1ac77",
+      "custom_points": 99.0,
+      "h2h_wins": 6,
       "h2h_losses": 5,
       "h2h_ties": 0,
-      "median_wins": 4,
-      "median_losses": 6,
+      "median_wins": 6,
+      "median_losses": 5,
       "median_ties": 0,
-      "all_play_wins": 57,
-      "all_play_losses": 53,
+      "all_play_wins": 69,
+      "all_play_losses": 52,
       "all_play_ties": 0,
-      "non_opp_wins": 52,
-      "non_opp_losses": 48,
-      "non_opp_ties": 0,
-      "top_n_finishes": 0,
-      "high_scores": 1,
-      "points_for": 1248.74,
-      "points_against": 1345.72,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 101.72,
-          "result": "L",
-          "median": 122.61,
-          "standings_points": 1.0
-        },
-        {
-          "week": 2,
-          "points": 105.72,
-          "result": "L",
-          "median": 107.26,
-          "standings_points": 5.0
-        },
-        {
-          "week": 3,
-          "points": 152.02,
-          "result": "W",
-          "median": 125.14,
-          "standings_points": 14.0
-        },
-        {
-          "week": 4,
-          "points": 104.84,
-          "result": "L",
-          "median": 132.31,
-          "standings_points": 2.0
-        },
-        {
-          "week": 5,
-          "points": 170.46,
-          "result": "W",
-          "median": 130.86,
-          "standings_points": 16.0
-        },
-        {
-          "week": 6,
-          "points": 136.2,
-          "result": "L",
-          "median": 111.8,
-          "standings_points": 9.0
-        },
-        {
-          "week": 7,
-          "points": 150.94,
-          "result": "W",
-          "median": 137.51,
-          "standings_points": 15.0
-        },
-        {
-          "week": 8,
-          "points": 109.36,
-          "result": "W",
-          "median": 110.99,
-          "standings_points": 9.0
-        },
-        {
-          "week": 9,
-          "points": 93.36,
-          "result": "L",
-          "median": 109.78,
-          "standings_points": 2.0
-        },
-        {
-          "week": 10,
-          "points": 124.12,
-          "result": "W",
-          "median": 131.34,
-          "standings_points": 9.0
-        }
-      ],
-      "all_play_pct": 0.5182
-    },
-    {
-      "rank": 8,
-      "roster_id": 4,
-      "team": "Kershaw",
-      "manager": "MFitz10",
-      "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
-      "custom_points": 77.0,
-      "h2h_wins": 4,
-      "h2h_losses": 6,
-      "h2h_ties": 0,
-      "median_wins": 7,
-      "median_losses": 3,
-      "median_ties": 0,
-      "all_play_wins": 57,
-      "all_play_losses": 53,
-      "all_play_ties": 0,
-      "non_opp_wins": 53,
+      "non_opp_wins": 63,
       "non_opp_losses": 47,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
       "high_scores": 1,
-      "points_for": 1278.08,
-      "points_against": 1448.52,
+      "points_for": 1411.44,
+      "points_against": 1382.26,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 118.02,
+          "result": "L",
+          "median": 122.61,
+          "standings_points": 5.0
+        },
+        {
+          "week": 2,
+          "points": 104.66,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 3.0
+        },
+        {
+          "week": 3,
+          "points": 142.12,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 12.0
+        },
+        {
+          "week": 4,
+          "points": 122.28,
+          "result": "W",
+          "median": 132.31,
+          "standings_points": 9.0
+        },
+        {
+          "week": 5,
+          "points": 134.84,
+          "result": "L",
+          "median": 130.86,
+          "standings_points": 7.0
+        },
+        {
+          "week": 6,
+          "points": 117.94,
+          "result": "W",
+          "median": 111.8,
+          "standings_points": 13.0
+        },
+        {
+          "week": 7,
+          "points": 163.08,
+          "result": "W",
+          "median": 137.51,
+          "standings_points": 16.0
+        },
+        {
+          "week": 8,
+          "points": 110.8,
+          "result": "L",
+          "median": 110.99,
+          "standings_points": 5.0
+        },
+        {
+          "week": 9,
+          "points": 146.18,
+          "result": "W",
+          "median": 109.78,
+          "standings_points": 14.0
+        },
+        {
+          "week": 10,
+          "points": 119.18,
+          "result": "L",
+          "median": 131.34,
+          "standings_points": 3.0
+        },
+        {
+          "week": 11,
+          "points": 132.34,
+          "result": "W",
+          "median": 117.76,
+          "standings_points": 12.0
+        }
+      ],
+      "all_play_pct": 0.5702
+    },
+    {
+      "rank": 6,
+      "roster_id": 8,
+      "team": "Give Lamar his Flowers",
+      "manager": "Bernie55",
+      "avatar": "https://sleepercdn.com/uploads/47576c877fccba235291b1af94334e2b.jpg",
+      "custom_points": 98.0,
+      "h2h_wins": 6,
+      "h2h_losses": 5,
+      "h2h_ties": 0,
+      "median_wins": 6,
+      "median_losses": 5,
+      "median_ties": 0,
+      "all_play_wins": 68,
+      "all_play_losses": 53,
+      "all_play_ties": 0,
+      "non_opp_wins": 62,
+      "non_opp_losses": 48,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 0,
+      "points_for": 1424.12,
+      "points_against": 1246.46,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 154.86,
+          "result": "W",
+          "median": 122.61,
+          "standings_points": 14.0
+        },
+        {
+          "week": 2,
+          "points": 90.2,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 1.0
+        },
+        {
+          "week": 3,
+          "points": 152.04,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 15.0
+        },
+        {
+          "week": 4,
+          "points": 160.28,
+          "result": "W",
+          "median": 132.31,
+          "standings_points": 15.0
+        },
+        {
+          "week": 5,
+          "points": 128.92,
+          "result": "L",
+          "median": 130.86,
+          "standings_points": 5.0
+        },
+        {
+          "week": 6,
+          "points": 92.52,
+          "result": "L",
+          "median": 111.8,
+          "standings_points": 2.0
+        },
+        {
+          "week": 7,
+          "points": 150.88,
+          "result": "W",
+          "median": 137.51,
+          "standings_points": 14.0
+        },
+        {
+          "week": 8,
+          "points": 164.3,
+          "result": "W",
+          "median": 110.99,
+          "standings_points": 14.0
+        },
+        {
+          "week": 9,
+          "points": 83.32,
+          "result": "L",
+          "median": 109.78,
+          "standings_points": 1.0
+        },
+        {
+          "week": 10,
+          "points": 134.12,
+          "result": "W",
+          "median": 131.34,
+          "standings_points": 12.0
+        },
+        {
+          "week": 11,
+          "points": 112.68,
+          "result": "L",
+          "median": 117.76,
+          "standings_points": 5.0
+        }
+      ],
+      "all_play_pct": 0.562
+    },
+    {
+      "rank": 7,
+      "roster_id": 4,
+      "team": "Kershaw",
+      "manager": "MFitz10",
+      "avatar": "https://sleepercdn.com/uploads/b9b9725a3f86df4124b49727740cd986.jpg",
+      "custom_points": 85.0,
+      "h2h_wins": 4,
+      "h2h_losses": 7,
+      "h2h_ties": 0,
+      "median_wins": 8,
+      "median_losses": 3,
+      "median_ties": 0,
+      "all_play_wins": 65,
+      "all_play_losses": 56,
+      "all_play_ties": 0,
+      "non_opp_wins": 61,
+      "non_opp_losses": 49,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 1,
+      "points_for": 1414.1,
+      "points_against": 1585.32,
       "weekly": [
         {
           "week": 1,
@@ -800,9 +746,120 @@
           "result": "L",
           "median": 131.34,
           "standings_points": 1.0
+        },
+        {
+          "week": 11,
+          "points": 136.02,
+          "result": "L",
+          "median": 117.76,
+          "standings_points": 8.0
         }
       ],
-      "all_play_pct": 0.5182
+      "all_play_pct": 0.5372
+    },
+    {
+      "rank": 8,
+      "roster_id": 11,
+      "team": "2 Drakes Sutton Cock ",
+      "manager": "2Legit2QuitFantasy",
+      "avatar": "https://sleepercdn.com/avatars/thumbs/4f4090e5e9c3941414db40a871e3e909",
+      "custom_points": 82.0,
+      "h2h_wins": 5,
+      "h2h_losses": 6,
+      "h2h_ties": 0,
+      "median_wins": 4,
+      "median_losses": 7,
+      "median_ties": 0,
+      "all_play_wins": 57,
+      "all_play_losses": 64,
+      "all_play_ties": 0,
+      "non_opp_wins": 52,
+      "non_opp_losses": 58,
+      "non_opp_ties": 0,
+      "top_n_finishes": 0,
+      "high_scores": 1,
+      "points_for": 1312.62,
+      "points_against": 1497.28,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 101.72,
+          "result": "L",
+          "median": 122.61,
+          "standings_points": 1.0
+        },
+        {
+          "week": 2,
+          "points": 105.72,
+          "result": "L",
+          "median": 107.26,
+          "standings_points": 5.0
+        },
+        {
+          "week": 3,
+          "points": 152.02,
+          "result": "W",
+          "median": 125.14,
+          "standings_points": 14.0
+        },
+        {
+          "week": 4,
+          "points": 104.84,
+          "result": "L",
+          "median": 132.31,
+          "standings_points": 2.0
+        },
+        {
+          "week": 5,
+          "points": 170.46,
+          "result": "W",
+          "median": 130.86,
+          "standings_points": 16.0
+        },
+        {
+          "week": 6,
+          "points": 136.2,
+          "result": "L",
+          "median": 111.8,
+          "standings_points": 9.0
+        },
+        {
+          "week": 7,
+          "points": 150.94,
+          "result": "W",
+          "median": 137.51,
+          "standings_points": 15.0
+        },
+        {
+          "week": 8,
+          "points": 109.36,
+          "result": "W",
+          "median": 110.99,
+          "standings_points": 9.0
+        },
+        {
+          "week": 9,
+          "points": 93.36,
+          "result": "L",
+          "median": 109.78,
+          "standings_points": 2.0
+        },
+        {
+          "week": 10,
+          "points": 124.12,
+          "result": "W",
+          "median": 131.34,
+          "standings_points": 9.0
+        },
+        {
+          "week": 11,
+          "points": 63.88,
+          "result": "L",
+          "median": 117.76,
+          "standings_points": 0.0
+        }
+      ],
+      "all_play_pct": 0.4711
     },
     {
       "rank": 9,
@@ -810,23 +867,23 @@
       "team": "Thunder Lips ",
       "manager": "Thunder_Lips",
       "avatar": "https://sleepercdn.com/avatars/thumbs/b319fdf8b7b5b0359d3c78622ba4d70c",
-      "custom_points": 72.0,
+      "custom_points": 73.0,
       "h2h_wins": 5,
-      "h2h_losses": 5,
+      "h2h_losses": 6,
       "h2h_ties": 0,
       "median_wins": 4,
-      "median_losses": 6,
+      "median_losses": 7,
       "median_ties": 0,
-      "all_play_wins": 47,
-      "all_play_losses": 63,
+      "all_play_wins": 48,
+      "all_play_losses": 73,
       "all_play_ties": 0,
-      "non_opp_wins": 42,
-      "non_opp_losses": 58,
+      "non_opp_wins": 43,
+      "non_opp_losses": 67,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
       "high_scores": 0,
-      "points_for": 1143.2,
-      "points_against": 1252.56,
+      "points_for": 1221.6,
+      "points_against": 1355.32,
       "weekly": [
         {
           "week": 1,
@@ -897,9 +954,16 @@
           "result": "W",
           "median": 131.34,
           "standings_points": 14.0
+        },
+        {
+          "week": 11,
+          "points": 78.4,
+          "result": "L",
+          "median": 117.76,
+          "standings_points": 1.0
         }
       ],
-      "all_play_pct": 0.4273
+      "all_play_pct": 0.3967
     },
     {
       "rank": 10,
@@ -907,23 +971,23 @@
       "team": "WATSON your ass",
       "manager": "aboevan28",
       "avatar": "https://sleepercdn.com/avatars/thumbs/06373b9c4d2bd34037b2706546f99c1d",
-      "custom_points": 65.0,
+      "custom_points": 69.0,
       "h2h_wins": 3,
-      "h2h_losses": 7,
+      "h2h_losses": 8,
       "h2h_ties": 0,
       "median_wins": 5,
-      "median_losses": 5,
+      "median_losses": 6,
       "median_ties": 0,
-      "all_play_wins": 50,
-      "all_play_losses": 60,
+      "all_play_wins": 54,
+      "all_play_losses": 67,
       "all_play_ties": 0,
-      "non_opp_wins": 47,
-      "non_opp_losses": 53,
+      "non_opp_wins": 51,
+      "non_opp_losses": 59,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
       "high_scores": 1,
-      "points_for": 1193.2,
-      "points_against": 1313.06,
+      "points_for": 1299.4,
+      "points_against": 1435.9,
       "weekly": [
         {
           "week": 1,
@@ -994,9 +1058,16 @@
           "result": "L",
           "median": 131.34,
           "standings_points": 0.0
+        },
+        {
+          "week": 11,
+          "points": 106.2,
+          "result": "L",
+          "median": 117.76,
+          "standings_points": 4.0
         }
       ],
-      "all_play_pct": 0.4545
+      "all_play_pct": 0.4463
     },
     {
       "rank": 11,
@@ -1004,23 +1075,23 @@
       "team": "Copperfield",
       "manager": "Rickrenova",
       "avatar": "https://sleepercdn.com/uploads/f5a90b1ef5e01fbd475535bf70c30f13.jpg",
-      "custom_points": 51.0,
-      "h2h_wins": 3,
+      "custom_points": 62.0,
+      "h2h_wins": 4,
       "h2h_losses": 7,
       "h2h_ties": 0,
-      "median_wins": 3,
+      "median_wins": 4,
       "median_losses": 7,
       "median_ties": 0,
-      "all_play_wins": 36,
-      "all_play_losses": 74,
+      "all_play_wins": 42,
+      "all_play_losses": 79,
       "all_play_ties": 0,
-      "non_opp_wins": 33,
-      "non_opp_losses": 67,
+      "non_opp_wins": 38,
+      "non_opp_losses": 72,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
       "high_scores": 0,
-      "points_for": 1078.04,
-      "points_against": 1275.18,
+      "points_for": 1200.88,
+      "points_against": 1381.38,
       "weekly": [
         {
           "week": 1,
@@ -1091,9 +1162,16 @@
           "result": "L",
           "median": 131.34,
           "standings_points": 5.0
+        },
+        {
+          "week": 11,
+          "points": 122.84,
+          "result": "W",
+          "median": 117.76,
+          "standings_points": 11.0
         }
       ],
-      "all_play_pct": 0.3273
+      "all_play_pct": 0.3471
     },
     {
       "rank": 12,
@@ -1101,23 +1179,23 @@
       "team": "WetDogShit",
       "manager": "stanwaffles",
       "avatar": "https://sleepercdn.com/uploads/ac924100cf478be8980de109bd090009.jpg",
-      "custom_points": 25.0,
-      "h2h_wins": 2,
+      "custom_points": 32.0,
+      "h2h_wins": 3,
       "h2h_losses": 8,
       "h2h_ties": 0,
       "median_wins": 0,
-      "median_losses": 10,
+      "median_losses": 11,
       "median_ties": 0,
-      "all_play_wins": 15,
-      "all_play_losses": 95,
+      "all_play_wins": 17,
+      "all_play_losses": 104,
       "all_play_ties": 0,
-      "non_opp_wins": 13,
-      "non_opp_losses": 87,
+      "non_opp_wins": 14,
+      "non_opp_losses": 96,
       "non_opp_ties": 0,
       "top_n_finishes": 0,
       "high_scores": 0,
-      "points_for": 921.96,
-      "points_against": 1270.56,
+      "points_for": 1024.72,
+      "points_against": 1348.96,
       "weekly": [
         {
           "week": 1,
@@ -1188,9 +1266,16 @@
           "result": "L",
           "median": 131.34,
           "standings_points": 2.0
+        },
+        {
+          "week": 11,
+          "points": 102.76,
+          "result": "W",
+          "median": 117.76,
+          "standings_points": 7.0
         }
       ],
-      "all_play_pct": 0.1364
+      "all_play_pct": 0.1405
     }
   ]
 }
